@@ -1,0 +1,10002 @@
+[
+  {
+    "_id": 1,
+    "number": 1,
+    "owner": {
+      "name": "Jackson Weber",
+      "phone": "834 497 23 80"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 232
+      },
+      {
+        "year": 2001,
+        "amount": 526
+      },
+      {
+        "year": 2002,
+        "amount": 67
+      },
+      {
+        "year": 2003,
+        "amount": 407
+      },
+      {
+        "year": 2004,
+        "amount": 121
+      },
+      {
+        "year": 2005,
+        "amount": 401
+      },
+      {
+        "year": 2006,
+        "amount": 545
+      },
+      {
+        "year": 2007,
+        "amount": 366
+      },
+      {
+        "year": 2008,
+        "amount": 83
+      },
+      {
+        "year": 2009,
+        "amount": 23
+      },
+      {
+        "year": 2010,
+        "amount": 22
+      },
+      {
+        "year": 2011,
+        "amount": 304
+      },
+      {
+        "year": 2012,
+        "amount": 304
+      },
+      {
+        "year": 2013,
+        "amount": 292
+      },
+      {
+        "year": 2014,
+        "amount": 297
+      },
+      {
+        "year": 2015,
+        "amount": 599
+      },
+      {
+        "year": 2016,
+        "amount": 547
+      },
+      {
+        "year": 2017,
+        "amount": 579
+      },
+      {
+        "year": 2018,
+        "amount": 169
+      },
+      {
+        "year": 2019,
+        "amount": 595
+      }
+    ],
+    "length": 5,
+    "width": "4.7",
+    "height": "2.9",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "11/06/2012",
+    "createdAt": "11/01/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 2,
+    "number": 2,
+    "owner": {
+      "name": "Grace Atkins",
+      "phone": "822 428 31 23"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 74
+      },
+      {
+        "year": 2001,
+        "amount": 552
+      },
+      {
+        "year": 2002,
+        "amount": 364
+      },
+      {
+        "year": 2003,
+        "amount": 226
+      },
+      {
+        "year": 2004,
+        "amount": 292
+      },
+      {
+        "year": 2005,
+        "amount": 327
+      },
+      {
+        "year": 2006,
+        "amount": 242
+      },
+      {
+        "year": 2007,
+        "amount": 489
+      },
+      {
+        "year": 2008,
+        "amount": 20
+      },
+      {
+        "year": 2009,
+        "amount": 231
+      },
+      {
+        "year": 2010,
+        "amount": 100
+      },
+      {
+        "year": 2011,
+        "amount": 294
+      },
+      {
+        "year": 2012,
+        "amount": 104
+      },
+      {
+        "year": 2013,
+        "amount": 4
+      },
+      {
+        "year": 2014,
+        "amount": 37
+      },
+      {
+        "year": 2015,
+        "amount": 95
+      },
+      {
+        "year": 2016,
+        "amount": 296
+      },
+      {
+        "year": 2017,
+        "amount": 452
+      },
+      {
+        "year": 2018,
+        "amount": 520
+      },
+      {
+        "year": 2019,
+        "amount": 421
+      }
+    ],
+    "length": "5.7",
+    "width": "4.7",
+    "height": "2.9",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "16/02/2017",
+    "createdAt": "05/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 3,
+    "number": 3,
+    "owner": {
+      "name": "Stella Cash",
+      "phone": "989 493 35 08"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 562
+      },
+      {
+        "year": 2001,
+        "amount": 535
+      },
+      {
+        "year": 2002,
+        "amount": 551
+      },
+      {
+        "year": 2003,
+        "amount": 368
+      },
+      {
+        "year": 2004,
+        "amount": 445
+      },
+      {
+        "year": 2005,
+        "amount": 342
+      },
+      {
+        "year": 2006,
+        "amount": 513
+      },
+      {
+        "year": 2007,
+        "amount": 445
+      },
+      {
+        "year": 2008,
+        "amount": 216
+      },
+      {
+        "year": 2009,
+        "amount": 282
+      },
+      {
+        "year": 2010,
+        "amount": 358
+      },
+      {
+        "year": 2011,
+        "amount": 77
+      },
+      {
+        "year": 2012,
+        "amount": 9
+      },
+      {
+        "year": 2013,
+        "amount": 290
+      },
+      {
+        "year": 2014,
+        "amount": 445
+      },
+      {
+        "year": 2015,
+        "amount": 144
+      },
+      {
+        "year": 2016,
+        "amount": 121
+      },
+      {
+        "year": 2017,
+        "amount": 262
+      },
+      {
+        "year": 2018,
+        "amount": 422
+      },
+      {
+        "year": 2019,
+        "amount": 368
+      }
+    ],
+    "length": "5.7",
+    "width": "4.5",
+    "height": "2.1",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "08/04/2014",
+    "createdAt": "02/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 4,
+    "number": 4,
+    "owner": {
+      "name": "Patsy Hunt",
+      "phone": "890 564 29 67"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 517
+      },
+      {
+        "year": 2001,
+        "amount": 504
+      },
+      {
+        "year": 2002,
+        "amount": 512
+      },
+      {
+        "year": 2003,
+        "amount": 42
+      },
+      {
+        "year": 2004,
+        "amount": 240
+      },
+      {
+        "year": 2005,
+        "amount": 119
+      },
+      {
+        "year": 2006,
+        "amount": 107
+      },
+      {
+        "year": 2007,
+        "amount": 498
+      },
+      {
+        "year": 2008,
+        "amount": 444
+      },
+      {
+        "year": 2009,
+        "amount": 67
+      },
+      {
+        "year": 2010,
+        "amount": 43
+      },
+      {
+        "year": 2011,
+        "amount": 122
+      },
+      {
+        "year": 2012,
+        "amount": 187
+      },
+      {
+        "year": 2013,
+        "amount": 467
+      },
+      {
+        "year": 2014,
+        "amount": 475
+      },
+      {
+        "year": 2015,
+        "amount": 410
+      },
+      {
+        "year": 2016,
+        "amount": 556
+      },
+      {
+        "year": 2017,
+        "amount": 45
+      },
+      {
+        "year": 2018,
+        "amount": 561
+      },
+      {
+        "year": 2019,
+        "amount": 586
+      }
+    ],
+    "length": "5.4",
+    "width": "4.1",
+    "height": 3,
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "31/03/2018",
+    "createdAt": "10/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 5,
+    "number": 5,
+    "owner": {
+      "name": "Ruby Wallace",
+      "phone": "878 500 20 71"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 15
+      },
+      {
+        "year": 2001,
+        "amount": 23
+      },
+      {
+        "year": 2002,
+        "amount": 474
+      },
+      {
+        "year": 2003,
+        "amount": 460
+      },
+      {
+        "year": 2004,
+        "amount": 165
+      },
+      {
+        "year": 2005,
+        "amount": 378
+      },
+      {
+        "year": 2006,
+        "amount": 28
+      },
+      {
+        "year": 2007,
+        "amount": 150
+      },
+      {
+        "year": 2008,
+        "amount": 552
+      },
+      {
+        "year": 2009,
+        "amount": 110
+      },
+      {
+        "year": 2010,
+        "amount": 285
+      },
+      {
+        "year": 2011,
+        "amount": 79
+      },
+      {
+        "year": 2012,
+        "amount": 82
+      },
+      {
+        "year": 2013,
+        "amount": 308
+      },
+      {
+        "year": 2014,
+        "amount": 376
+      },
+      {
+        "year": 2015,
+        "amount": 123
+      },
+      {
+        "year": 2016,
+        "amount": 213
+      },
+      {
+        "year": 2017,
+        "amount": 100
+      },
+      {
+        "year": 2018,
+        "amount": 177
+      },
+      {
+        "year": 2019,
+        "amount": 437
+      }
+    ],
+    "length": "5.3",
+    "width": "4.2",
+    "height": 3,
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "04/02/2018",
+    "createdAt": "03/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 6,
+    "number": 6,
+    "owner": {
+      "name": "Della Horn",
+      "phone": "853 583 34 93"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 437
+      },
+      {
+        "year": 2001,
+        "amount": 378
+      },
+      {
+        "year": 2002,
+        "amount": 141
+      },
+      {
+        "year": 2003,
+        "amount": 206
+      },
+      {
+        "year": 2004,
+        "amount": 268
+      },
+      {
+        "year": 2005,
+        "amount": 324
+      },
+      {
+        "year": 2006,
+        "amount": 201
+      },
+      {
+        "year": 2007,
+        "amount": 486
+      },
+      {
+        "year": 2008,
+        "amount": 49
+      },
+      {
+        "year": 2009,
+        "amount": 449
+      },
+      {
+        "year": 2010,
+        "amount": 487
+      },
+      {
+        "year": 2011,
+        "amount": 40
+      },
+      {
+        "year": 2012,
+        "amount": 436
+      },
+      {
+        "year": 2013,
+        "amount": 182
+      },
+      {
+        "year": 2014,
+        "amount": 201
+      },
+      {
+        "year": 2015,
+        "amount": 503
+      },
+      {
+        "year": 2016,
+        "amount": 303
+      },
+      {
+        "year": 2017,
+        "amount": 490
+      },
+      {
+        "year": 2018,
+        "amount": 336
+      },
+      {
+        "year": 2019,
+        "amount": 101
+      }
+    ],
+    "length": "5.1",
+    "width": "4.8",
+    "height": "2.5",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "01/03/2014",
+    "createdAt": "02/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 7,
+    "number": 7,
+    "owner": {
+      "name": "Wolfe Huffman",
+      "phone": "994 600 20 58"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 395
+      },
+      {
+        "year": 2001,
+        "amount": 149
+      },
+      {
+        "year": 2002,
+        "amount": 216
+      },
+      {
+        "year": 2003,
+        "amount": 421
+      },
+      {
+        "year": 2004,
+        "amount": 23
+      },
+      {
+        "year": 2005,
+        "amount": 97
+      },
+      {
+        "year": 2006,
+        "amount": 289
+      },
+      {
+        "year": 2007,
+        "amount": 381
+      },
+      {
+        "year": 2008,
+        "amount": 530
+      },
+      {
+        "year": 2009,
+        "amount": 145
+      },
+      {
+        "year": 2010,
+        "amount": 103
+      },
+      {
+        "year": 2011,
+        "amount": 10
+      },
+      {
+        "year": 2012,
+        "amount": 72
+      },
+      {
+        "year": 2013,
+        "amount": 439
+      },
+      {
+        "year": 2014,
+        "amount": 149
+      },
+      {
+        "year": 2015,
+        "amount": 238
+      },
+      {
+        "year": 2016,
+        "amount": 309
+      },
+      {
+        "year": 2017,
+        "amount": 379
+      },
+      {
+        "year": 2018,
+        "amount": 527
+      },
+      {
+        "year": 2019,
+        "amount": 15
+      }
+    ],
+    "length": 6,
+    "width": "4.2",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "28/07/2010",
+    "createdAt": "26/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 8,
+    "number": 8,
+    "owner": {
+      "name": "Maynard Greene",
+      "phone": "980 422 20 21"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 182
+      },
+      {
+        "year": 2001,
+        "amount": 37
+      },
+      {
+        "year": 2002,
+        "amount": 96
+      },
+      {
+        "year": 2003,
+        "amount": 505
+      },
+      {
+        "year": 2004,
+        "amount": 22
+      },
+      {
+        "year": 2005,
+        "amount": 430
+      },
+      {
+        "year": 2006,
+        "amount": 138
+      },
+      {
+        "year": 2007,
+        "amount": 177
+      },
+      {
+        "year": 2008,
+        "amount": 113
+      },
+      {
+        "year": 2009,
+        "amount": 528
+      },
+      {
+        "year": 2010,
+        "amount": 108
+      },
+      {
+        "year": 2011,
+        "amount": 546
+      },
+      {
+        "year": 2012,
+        "amount": 164
+      },
+      {
+        "year": 2013,
+        "amount": 33
+      },
+      {
+        "year": 2014,
+        "amount": 38
+      },
+      {
+        "year": 2015,
+        "amount": 209
+      },
+      {
+        "year": 2016,
+        "amount": 369
+      },
+      {
+        "year": 2017,
+        "amount": 523
+      },
+      {
+        "year": 2018,
+        "amount": 150
+      },
+      {
+        "year": 2019,
+        "amount": 186
+      }
+    ],
+    "length": 5,
+    "width": "4.2",
+    "height": "2.8",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "18/12/2014",
+    "createdAt": "09/02/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 9,
+    "number": 9,
+    "owner": {
+      "name": "Staci Rowe",
+      "phone": "852 593 20 79"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 568
+      },
+      {
+        "year": 2001,
+        "amount": 390
+      },
+      {
+        "year": 2002,
+        "amount": 169
+      },
+      {
+        "year": 2003,
+        "amount": 392
+      },
+      {
+        "year": 2004,
+        "amount": 345
+      },
+      {
+        "year": 2005,
+        "amount": 257
+      },
+      {
+        "year": 2006,
+        "amount": 6
+      },
+      {
+        "year": 2007,
+        "amount": 327
+      },
+      {
+        "year": 2008,
+        "amount": 534
+      },
+      {
+        "year": 2009,
+        "amount": 277
+      },
+      {
+        "year": 2010,
+        "amount": 431
+      },
+      {
+        "year": 2011,
+        "amount": 553
+      },
+      {
+        "year": 2012,
+        "amount": 539
+      },
+      {
+        "year": 2013,
+        "amount": 70
+      },
+      {
+        "year": 2014,
+        "amount": 359
+      },
+      {
+        "year": 2015,
+        "amount": 22
+      },
+      {
+        "year": 2016,
+        "amount": 129
+      },
+      {
+        "year": 2017,
+        "amount": 43
+      },
+      {
+        "year": 2018,
+        "amount": 360
+      },
+      {
+        "year": 2019,
+        "amount": 518
+      }
+    ],
+    "length": 6,
+    "width": "4.3",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "24/10/2013",
+    "createdAt": "23/12/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 10,
+    "number": 10,
+    "owner": {
+      "name": "Jerri Wilkins",
+      "phone": "953 589 30 31"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 296
+      },
+      {
+        "year": 2001,
+        "amount": 165
+      },
+      {
+        "year": 2002,
+        "amount": 597
+      },
+      {
+        "year": 2003,
+        "amount": 513
+      },
+      {
+        "year": 2004,
+        "amount": 507
+      },
+      {
+        "year": 2005,
+        "amount": 112
+      },
+      {
+        "year": 2006,
+        "amount": 313
+      },
+      {
+        "year": 2007,
+        "amount": 562
+      },
+      {
+        "year": 2008,
+        "amount": 412
+      },
+      {
+        "year": 2009,
+        "amount": 99
+      },
+      {
+        "year": 2010,
+        "amount": 526
+      },
+      {
+        "year": 2011,
+        "amount": 365
+      },
+      {
+        "year": 2012,
+        "amount": 456
+      },
+      {
+        "year": 2013,
+        "amount": 338
+      },
+      {
+        "year": 2014,
+        "amount": 153
+      },
+      {
+        "year": 2015,
+        "amount": 270
+      },
+      {
+        "year": 2016,
+        "amount": 334
+      },
+      {
+        "year": 2017,
+        "amount": 345
+      },
+      {
+        "year": 2018,
+        "amount": 281
+      },
+      {
+        "year": 2019,
+        "amount": 247
+      }
+    ],
+    "length": "5.7",
+    "width": "4.1",
+    "height": "2.1",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "08/04/2015",
+    "createdAt": "15/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 11,
+    "number": 11,
+    "owner": {
+      "name": "Golden Yang",
+      "phone": "902 462 36 21"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 124
+      },
+      {
+        "year": 2001,
+        "amount": 69
+      },
+      {
+        "year": 2002,
+        "amount": 23
+      },
+      {
+        "year": 2003,
+        "amount": 93
+      },
+      {
+        "year": 2004,
+        "amount": 195
+      },
+      {
+        "year": 2005,
+        "amount": 436
+      },
+      {
+        "year": 2006,
+        "amount": 173
+      },
+      {
+        "year": 2007,
+        "amount": 510
+      },
+      {
+        "year": 2008,
+        "amount": 121
+      },
+      {
+        "year": 2009,
+        "amount": 591
+      },
+      {
+        "year": 2010,
+        "amount": 437
+      },
+      {
+        "year": 2011,
+        "amount": 541
+      },
+      {
+        "year": 2012,
+        "amount": 181
+      },
+      {
+        "year": 2013,
+        "amount": 247
+      },
+      {
+        "year": 2014,
+        "amount": 393
+      },
+      {
+        "year": 2015,
+        "amount": 50
+      },
+      {
+        "year": 2016,
+        "amount": 383
+      },
+      {
+        "year": 2017,
+        "amount": 472
+      },
+      {
+        "year": 2018,
+        "amount": 112
+      },
+      {
+        "year": 2019,
+        "amount": 121
+      }
+    ],
+    "length": "5.9",
+    "width": "4.4",
+    "height": "2.9",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "29/10/2017",
+    "createdAt": "22/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 12,
+    "number": 12,
+    "owner": {
+      "name": "Kerry Barrett",
+      "phone": "930 592 33 73"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 389
+      },
+      {
+        "year": 2001,
+        "amount": 476
+      },
+      {
+        "year": 2002,
+        "amount": 568
+      },
+      {
+        "year": 2003,
+        "amount": 466
+      },
+      {
+        "year": 2004,
+        "amount": 154
+      },
+      {
+        "year": 2005,
+        "amount": 20
+      },
+      {
+        "year": 2006,
+        "amount": 50
+      },
+      {
+        "year": 2007,
+        "amount": 254
+      },
+      {
+        "year": 2008,
+        "amount": 117
+      },
+      {
+        "year": 2009,
+        "amount": 567
+      },
+      {
+        "year": 2010,
+        "amount": 159
+      },
+      {
+        "year": 2011,
+        "amount": 346
+      },
+      {
+        "year": 2012,
+        "amount": 320
+      },
+      {
+        "year": 2013,
+        "amount": 77
+      },
+      {
+        "year": 2014,
+        "amount": 38
+      },
+      {
+        "year": 2015,
+        "amount": 189
+      },
+      {
+        "year": 2016,
+        "amount": 245
+      },
+      {
+        "year": 2017,
+        "amount": 3
+      },
+      {
+        "year": 2018,
+        "amount": 176
+      },
+      {
+        "year": 2019,
+        "amount": 264
+      }
+    ],
+    "length": "5.2",
+    "width": "4.7",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "19/01/2018",
+    "createdAt": "05/01/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 13,
+    "number": 13,
+    "owner": {
+      "name": "Kelsey Villarreal",
+      "phone": "838 570 27 13"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 251
+      },
+      {
+        "year": 2001,
+        "amount": 202
+      },
+      {
+        "year": 2002,
+        "amount": 63
+      },
+      {
+        "year": 2003,
+        "amount": 556
+      },
+      {
+        "year": 2004,
+        "amount": 582
+      },
+      {
+        "year": 2005,
+        "amount": 133
+      },
+      {
+        "year": 2006,
+        "amount": 205
+      },
+      {
+        "year": 2007,
+        "amount": 409
+      },
+      {
+        "year": 2008,
+        "amount": 25
+      },
+      {
+        "year": 2009,
+        "amount": 196
+      },
+      {
+        "year": 2010,
+        "amount": 558
+      },
+      {
+        "year": 2011,
+        "amount": 27
+      },
+      {
+        "year": 2012,
+        "amount": 346
+      },
+      {
+        "year": 2013,
+        "amount": 82
+      },
+      {
+        "year": 2014,
+        "amount": 258
+      },
+      {
+        "year": 2015,
+        "amount": 508
+      },
+      {
+        "year": 2016,
+        "amount": 229
+      },
+      {
+        "year": 2017,
+        "amount": 405
+      },
+      {
+        "year": 2018,
+        "amount": 274
+      },
+      {
+        "year": 2019,
+        "amount": 96
+      }
+    ],
+    "length": 6,
+    "width": "4.8",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "29/11/2014",
+    "createdAt": "26/01/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 14,
+    "number": 14,
+    "owner": {
+      "name": "Conway Bryant",
+      "phone": "820 465 31 84"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 271
+      },
+      {
+        "year": 2001,
+        "amount": 248
+      },
+      {
+        "year": 2002,
+        "amount": 194
+      },
+      {
+        "year": 2003,
+        "amount": 503
+      },
+      {
+        "year": 2004,
+        "amount": 428
+      },
+      {
+        "year": 2005,
+        "amount": 119
+      },
+      {
+        "year": 2006,
+        "amount": 148
+      },
+      {
+        "year": 2007,
+        "amount": 300
+      },
+      {
+        "year": 2008,
+        "amount": 467
+      },
+      {
+        "year": 2009,
+        "amount": 128
+      },
+      {
+        "year": 2010,
+        "amount": 460
+      },
+      {
+        "year": 2011,
+        "amount": 111
+      },
+      {
+        "year": 2012,
+        "amount": 424
+      },
+      {
+        "year": 2013,
+        "amount": 381
+      },
+      {
+        "year": 2014,
+        "amount": 234
+      },
+      {
+        "year": 2015,
+        "amount": 108
+      },
+      {
+        "year": 2016,
+        "amount": 280
+      },
+      {
+        "year": 2017,
+        "amount": 577
+      },
+      {
+        "year": 2018,
+        "amount": 433
+      },
+      {
+        "year": 2019,
+        "amount": 450
+      }
+    ],
+    "length": "5.9",
+    "width": "4.2",
+    "height": 3,
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "11/05/2017",
+    "createdAt": "14/02/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 15,
+    "number": 15,
+    "owner": {
+      "name": "Frazier Hardy",
+      "phone": "830 472 30 54"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 275
+      },
+      {
+        "year": 2001,
+        "amount": 444
+      },
+      {
+        "year": 2002,
+        "amount": 292
+      },
+      {
+        "year": 2003,
+        "amount": 596
+      },
+      {
+        "year": 2004,
+        "amount": 527
+      },
+      {
+        "year": 2005,
+        "amount": 346
+      },
+      {
+        "year": 2006,
+        "amount": 87
+      },
+      {
+        "year": 2007,
+        "amount": 70
+      },
+      {
+        "year": 2008,
+        "amount": 583
+      },
+      {
+        "year": 2009,
+        "amount": 312
+      },
+      {
+        "year": 2010,
+        "amount": 587
+      },
+      {
+        "year": 2011,
+        "amount": 46
+      },
+      {
+        "year": 2012,
+        "amount": 379
+      },
+      {
+        "year": 2013,
+        "amount": 411
+      },
+      {
+        "year": 2014,
+        "amount": 456
+      },
+      {
+        "year": 2015,
+        "amount": 224
+      },
+      {
+        "year": 2016,
+        "amount": 576
+      },
+      {
+        "year": 2017,
+        "amount": 156
+      },
+      {
+        "year": 2018,
+        "amount": 113
+      },
+      {
+        "year": 2019,
+        "amount": 3
+      }
+    ],
+    "length": "5.9",
+    "width": "4.8",
+    "height": "2.6",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "23/07/2016",
+    "createdAt": "26/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 16,
+    "number": 16,
+    "owner": {
+      "name": "Parker Haney",
+      "phone": "839 450 38 60"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 174
+      },
+      {
+        "year": 2001,
+        "amount": 176
+      },
+      {
+        "year": 2002,
+        "amount": 410
+      },
+      {
+        "year": 2003,
+        "amount": 461
+      },
+      {
+        "year": 2004,
+        "amount": 327
+      },
+      {
+        "year": 2005,
+        "amount": 205
+      },
+      {
+        "year": 2006,
+        "amount": 276
+      },
+      {
+        "year": 2007,
+        "amount": 518
+      },
+      {
+        "year": 2008,
+        "amount": 433
+      },
+      {
+        "year": 2009,
+        "amount": 416
+      },
+      {
+        "year": 2010,
+        "amount": 185
+      },
+      {
+        "year": 2011,
+        "amount": 427
+      },
+      {
+        "year": 2012,
+        "amount": 575
+      },
+      {
+        "year": 2013,
+        "amount": 541
+      },
+      {
+        "year": 2014,
+        "amount": 19
+      },
+      {
+        "year": 2015,
+        "amount": 48
+      },
+      {
+        "year": 2016,
+        "amount": 274
+      },
+      {
+        "year": 2017,
+        "amount": 37
+      },
+      {
+        "year": 2018,
+        "amount": 180
+      },
+      {
+        "year": 2019,
+        "amount": 54
+      }
+    ],
+    "length": "5.6",
+    "width": "4.5",
+    "height": "2.2",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "20/12/2018",
+    "createdAt": "19/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 17,
+    "number": 17,
+    "owner": {
+      "name": "Wendi Calderon",
+      "phone": "997 591 24 04"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 27
+      },
+      {
+        "year": 2001,
+        "amount": 390
+      },
+      {
+        "year": 2002,
+        "amount": 132
+      },
+      {
+        "year": 2003,
+        "amount": 577
+      },
+      {
+        "year": 2004,
+        "amount": 444
+      },
+      {
+        "year": 2005,
+        "amount": 565
+      },
+      {
+        "year": 2006,
+        "amount": 300
+      },
+      {
+        "year": 2007,
+        "amount": 139
+      },
+      {
+        "year": 2008,
+        "amount": 432
+      },
+      {
+        "year": 2009,
+        "amount": 532
+      },
+      {
+        "year": 2010,
+        "amount": 584
+      },
+      {
+        "year": 2011,
+        "amount": 133
+      },
+      {
+        "year": 2012,
+        "amount": 475
+      },
+      {
+        "year": 2013,
+        "amount": 109
+      },
+      {
+        "year": 2014,
+        "amount": 117
+      },
+      {
+        "year": 2015,
+        "amount": 418
+      },
+      {
+        "year": 2016,
+        "amount": 55
+      },
+      {
+        "year": 2017,
+        "amount": 52
+      },
+      {
+        "year": 2018,
+        "amount": 258
+      },
+      {
+        "year": 2019,
+        "amount": 50
+      }
+    ],
+    "length": 6,
+    "width": "4.2",
+    "height": "2.1",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "12/10/2012",
+    "createdAt": "09/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 18,
+    "number": 18,
+    "owner": {
+      "name": "Trina Mercado",
+      "phone": "905 500 32 34"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 10
+      },
+      {
+        "year": 2001,
+        "amount": 391
+      },
+      {
+        "year": 2002,
+        "amount": 284
+      },
+      {
+        "year": 2003,
+        "amount": 218
+      },
+      {
+        "year": 2004,
+        "amount": 433
+      },
+      {
+        "year": 2005,
+        "amount": 12
+      },
+      {
+        "year": 2006,
+        "amount": 409
+      },
+      {
+        "year": 2007,
+        "amount": 6
+      },
+      {
+        "year": 2008,
+        "amount": 191
+      },
+      {
+        "year": 2009,
+        "amount": 491
+      },
+      {
+        "year": 2010,
+        "amount": 298
+      },
+      {
+        "year": 2011,
+        "amount": 270
+      },
+      {
+        "year": 2012,
+        "amount": 293
+      },
+      {
+        "year": 2013,
+        "amount": 316
+      },
+      {
+        "year": 2014,
+        "amount": 376
+      },
+      {
+        "year": 2015,
+        "amount": 360
+      },
+      {
+        "year": 2016,
+        "amount": 56
+      },
+      {
+        "year": 2017,
+        "amount": 184
+      },
+      {
+        "year": 2018,
+        "amount": 489
+      },
+      {
+        "year": 2019,
+        "amount": 159
+      }
+    ],
+    "length": "5.7",
+    "width": "4.1",
+    "height": "2.8",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "22/10/2018",
+    "createdAt": "08/02/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 19,
+    "number": 19,
+    "owner": {
+      "name": "Villarreal Burns",
+      "phone": "805 561 21 89"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 589
+      },
+      {
+        "year": 2001,
+        "amount": 343
+      },
+      {
+        "year": 2002,
+        "amount": 395
+      },
+      {
+        "year": 2003,
+        "amount": 279
+      },
+      {
+        "year": 2004,
+        "amount": 600
+      },
+      {
+        "year": 2005,
+        "amount": 122
+      },
+      {
+        "year": 2006,
+        "amount": 330
+      },
+      {
+        "year": 2007,
+        "amount": 311
+      },
+      {
+        "year": 2008,
+        "amount": 271
+      },
+      {
+        "year": 2009,
+        "amount": 178
+      },
+      {
+        "year": 2010,
+        "amount": 39
+      },
+      {
+        "year": 2011,
+        "amount": 413
+      },
+      {
+        "year": 2012,
+        "amount": 395
+      },
+      {
+        "year": 2013,
+        "amount": 579
+      },
+      {
+        "year": 2014,
+        "amount": 430
+      },
+      {
+        "year": 2015,
+        "amount": 384
+      },
+      {
+        "year": 2016,
+        "amount": 67
+      },
+      {
+        "year": 2017,
+        "amount": 305
+      },
+      {
+        "year": 2018,
+        "amount": 93
+      },
+      {
+        "year": 2019,
+        "amount": 107
+      }
+    ],
+    "length": "5.1",
+    "width": 4,
+    "height": "2.3",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "24/01/2009",
+    "createdAt": "05/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 20,
+    "number": 20,
+    "owner": {
+      "name": "Bianca Sandoval",
+      "phone": "968 421 38 13"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 247
+      },
+      {
+        "year": 2001,
+        "amount": 547
+      },
+      {
+        "year": 2002,
+        "amount": 575
+      },
+      {
+        "year": 2003,
+        "amount": 344
+      },
+      {
+        "year": 2004,
+        "amount": 78
+      },
+      {
+        "year": 2005,
+        "amount": 541
+      },
+      {
+        "year": 2006,
+        "amount": 403
+      },
+      {
+        "year": 2007,
+        "amount": 323
+      },
+      {
+        "year": 2008,
+        "amount": 147
+      },
+      {
+        "year": 2009,
+        "amount": 52
+      },
+      {
+        "year": 2010,
+        "amount": 510
+      },
+      {
+        "year": 2011,
+        "amount": 72
+      },
+      {
+        "year": 2012,
+        "amount": 295
+      },
+      {
+        "year": 2013,
+        "amount": 256
+      },
+      {
+        "year": 2014,
+        "amount": 100
+      },
+      {
+        "year": 2015,
+        "amount": 98
+      },
+      {
+        "year": 2016,
+        "amount": 288
+      },
+      {
+        "year": 2017,
+        "amount": 462
+      },
+      {
+        "year": 2018,
+        "amount": 259
+      },
+      {
+        "year": 2019,
+        "amount": 40
+      }
+    ],
+    "length": 5,
+    "width": "4.1",
+    "height": 2,
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "16/04/2007",
+    "createdAt": "03/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 21,
+    "number": 21,
+    "owner": {
+      "name": "Benita Stone",
+      "phone": "878 587 35 98"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 431
+      },
+      {
+        "year": 2001,
+        "amount": 465
+      },
+      {
+        "year": 2002,
+        "amount": 38
+      },
+      {
+        "year": 2003,
+        "amount": 267
+      },
+      {
+        "year": 2004,
+        "amount": 331
+      },
+      {
+        "year": 2005,
+        "amount": 120
+      },
+      {
+        "year": 2006,
+        "amount": 103
+      },
+      {
+        "year": 2007,
+        "amount": 304
+      },
+      {
+        "year": 2008,
+        "amount": 202
+      },
+      {
+        "year": 2009,
+        "amount": 571
+      },
+      {
+        "year": 2010,
+        "amount": 553
+      },
+      {
+        "year": 2011,
+        "amount": 46
+      },
+      {
+        "year": 2012,
+        "amount": 599
+      },
+      {
+        "year": 2013,
+        "amount": 598
+      },
+      {
+        "year": 2014,
+        "amount": 350
+      },
+      {
+        "year": 2015,
+        "amount": 578
+      },
+      {
+        "year": 2016,
+        "amount": 535
+      },
+      {
+        "year": 2017,
+        "amount": 394
+      },
+      {
+        "year": 2018,
+        "amount": 222
+      },
+      {
+        "year": 2019,
+        "amount": 589
+      }
+    ],
+    "length": "5.1",
+    "width": 4,
+    "height": 3,
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "26/03/2009",
+    "createdAt": "01/01/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 22,
+    "number": 22,
+    "owner": {
+      "name": "Rosalinda Mcconnell",
+      "phone": "823 469 30 90"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 597
+      },
+      {
+        "year": 2001,
+        "amount": 245
+      },
+      {
+        "year": 2002,
+        "amount": 40
+      },
+      {
+        "year": 2003,
+        "amount": 122
+      },
+      {
+        "year": 2004,
+        "amount": 375
+      },
+      {
+        "year": 2005,
+        "amount": 564
+      },
+      {
+        "year": 2006,
+        "amount": 370
+      },
+      {
+        "year": 2007,
+        "amount": 424
+      },
+      {
+        "year": 2008,
+        "amount": 535
+      },
+      {
+        "year": 2009,
+        "amount": 268
+      },
+      {
+        "year": 2010,
+        "amount": 594
+      },
+      {
+        "year": 2011,
+        "amount": 185
+      },
+      {
+        "year": 2012,
+        "amount": 298
+      },
+      {
+        "year": 2013,
+        "amount": 250
+      },
+      {
+        "year": 2014,
+        "amount": 299
+      },
+      {
+        "year": 2015,
+        "amount": 42
+      },
+      {
+        "year": 2016,
+        "amount": 597
+      },
+      {
+        "year": 2017,
+        "amount": 161
+      },
+      {
+        "year": 2018,
+        "amount": 360
+      },
+      {
+        "year": 2019,
+        "amount": 147
+      }
+    ],
+    "length": "5.1",
+    "width": "4.5",
+    "height": "2.9",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "30/04/2013",
+    "createdAt": "10/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 23,
+    "number": 23,
+    "owner": {
+      "name": "Hinton Castillo",
+      "phone": "867 464 37 00"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 174
+      },
+      {
+        "year": 2001,
+        "amount": 212
+      },
+      {
+        "year": 2002,
+        "amount": 332
+      },
+      {
+        "year": 2003,
+        "amount": 578
+      },
+      {
+        "year": 2004,
+        "amount": 401
+      },
+      {
+        "year": 2005,
+        "amount": 208
+      },
+      {
+        "year": 2006,
+        "amount": 504
+      },
+      {
+        "year": 2007,
+        "amount": 10
+      },
+      {
+        "year": 2008,
+        "amount": 415
+      },
+      {
+        "year": 2009,
+        "amount": 376
+      },
+      {
+        "year": 2010,
+        "amount": 203
+      },
+      {
+        "year": 2011,
+        "amount": 176
+      },
+      {
+        "year": 2012,
+        "amount": 29
+      },
+      {
+        "year": 2013,
+        "amount": 500
+      },
+      {
+        "year": 2014,
+        "amount": 36
+      },
+      {
+        "year": 2015,
+        "amount": 142
+      },
+      {
+        "year": 2016,
+        "amount": 222
+      },
+      {
+        "year": 2017,
+        "amount": 1
+      },
+      {
+        "year": 2018,
+        "amount": 593
+      },
+      {
+        "year": 2019,
+        "amount": 54
+      }
+    ],
+    "length": "5.2",
+    "width": "4.3",
+    "height": "2.7",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "20/11/2013",
+    "createdAt": "14/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 24,
+    "number": 24,
+    "owner": {
+      "name": "Lindsey Carrillo",
+      "phone": "966 599 31 74"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 105
+      },
+      {
+        "year": 2001,
+        "amount": 248
+      },
+      {
+        "year": 2002,
+        "amount": 417
+      },
+      {
+        "year": 2003,
+        "amount": 23
+      },
+      {
+        "year": 2004,
+        "amount": 415
+      },
+      {
+        "year": 2005,
+        "amount": 2
+      },
+      {
+        "year": 2006,
+        "amount": 512
+      },
+      {
+        "year": 2007,
+        "amount": 35
+      },
+      {
+        "year": 2008,
+        "amount": 87
+      },
+      {
+        "year": 2009,
+        "amount": 123
+      },
+      {
+        "year": 2010,
+        "amount": 235
+      },
+      {
+        "year": 2011,
+        "amount": 542
+      },
+      {
+        "year": 2012,
+        "amount": 172
+      },
+      {
+        "year": 2013,
+        "amount": 218
+      },
+      {
+        "year": 2014,
+        "amount": 211
+      },
+      {
+        "year": 2015,
+        "amount": 496
+      },
+      {
+        "year": 2016,
+        "amount": 259
+      },
+      {
+        "year": 2017,
+        "amount": 118
+      },
+      {
+        "year": 2018,
+        "amount": 125
+      },
+      {
+        "year": 2019,
+        "amount": 554
+      }
+    ],
+    "length": "5.6",
+    "width": "4.7",
+    "height": "2.9",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "12/12/2009",
+    "createdAt": "31/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 25,
+    "number": 25,
+    "owner": {
+      "name": "Alma Carey",
+      "phone": "859 590 25 13"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 230
+      },
+      {
+        "year": 2001,
+        "amount": 454
+      },
+      {
+        "year": 2002,
+        "amount": 533
+      },
+      {
+        "year": 2003,
+        "amount": 87
+      },
+      {
+        "year": 2004,
+        "amount": 480
+      },
+      {
+        "year": 2005,
+        "amount": 223
+      },
+      {
+        "year": 2006,
+        "amount": 90
+      },
+      {
+        "year": 2007,
+        "amount": 547
+      },
+      {
+        "year": 2008,
+        "amount": 8
+      },
+      {
+        "year": 2009,
+        "amount": 571
+      },
+      {
+        "year": 2010,
+        "amount": 593
+      },
+      {
+        "year": 2011,
+        "amount": 509
+      },
+      {
+        "year": 2012,
+        "amount": 530
+      },
+      {
+        "year": 2013,
+        "amount": 407
+      },
+      {
+        "year": 2014,
+        "amount": 589
+      },
+      {
+        "year": 2015,
+        "amount": 451
+      },
+      {
+        "year": 2016,
+        "amount": 366
+      },
+      {
+        "year": 2017,
+        "amount": 352
+      },
+      {
+        "year": 2018,
+        "amount": 437
+      },
+      {
+        "year": 2019,
+        "amount": 325
+      }
+    ],
+    "length": "5.1",
+    "width": "4.9",
+    "height": 3,
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "24/10/2011",
+    "createdAt": "08/09/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 26,
+    "number": 26,
+    "owner": {
+      "name": "Sawyer Lynch",
+      "phone": "902 489 23 17"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 445
+      },
+      {
+        "year": 2001,
+        "amount": 24
+      },
+      {
+        "year": 2002,
+        "amount": 353
+      },
+      {
+        "year": 2003,
+        "amount": 189
+      },
+      {
+        "year": 2004,
+        "amount": 518
+      },
+      {
+        "year": 2005,
+        "amount": 351
+      },
+      {
+        "year": 2006,
+        "amount": 168
+      },
+      {
+        "year": 2007,
+        "amount": 203
+      },
+      {
+        "year": 2008,
+        "amount": 481
+      },
+      {
+        "year": 2009,
+        "amount": 205
+      },
+      {
+        "year": 2010,
+        "amount": 135
+      },
+      {
+        "year": 2011,
+        "amount": 161
+      },
+      {
+        "year": 2012,
+        "amount": 327
+      },
+      {
+        "year": 2013,
+        "amount": 571
+      },
+      {
+        "year": 2014,
+        "amount": 194
+      },
+      {
+        "year": 2015,
+        "amount": 75
+      },
+      {
+        "year": 2016,
+        "amount": 488
+      },
+      {
+        "year": 2017,
+        "amount": 260
+      },
+      {
+        "year": 2018,
+        "amount": 251
+      },
+      {
+        "year": 2019,
+        "amount": 424
+      }
+    ],
+    "length": "5.2",
+    "width": "4.3",
+    "height": 2,
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "31/05/2012",
+    "createdAt": "29/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 27,
+    "number": 27,
+    "owner": {
+      "name": "Lancaster Duran",
+      "phone": "817 474 33 44"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 17
+      },
+      {
+        "year": 2001,
+        "amount": 351
+      },
+      {
+        "year": 2002,
+        "amount": 536
+      },
+      {
+        "year": 2003,
+        "amount": 525
+      },
+      {
+        "year": 2004,
+        "amount": 1
+      },
+      {
+        "year": 2005,
+        "amount": 144
+      },
+      {
+        "year": 2006,
+        "amount": 156
+      },
+      {
+        "year": 2007,
+        "amount": 190
+      },
+      {
+        "year": 2008,
+        "amount": 390
+      },
+      {
+        "year": 2009,
+        "amount": 426
+      },
+      {
+        "year": 2010,
+        "amount": 568
+      },
+      {
+        "year": 2011,
+        "amount": 499
+      },
+      {
+        "year": 2012,
+        "amount": 124
+      },
+      {
+        "year": 2013,
+        "amount": 324
+      },
+      {
+        "year": 2014,
+        "amount": 137
+      },
+      {
+        "year": 2015,
+        "amount": 253
+      },
+      {
+        "year": 2016,
+        "amount": 591
+      },
+      {
+        "year": 2017,
+        "amount": 87
+      },
+      {
+        "year": 2018,
+        "amount": 25
+      },
+      {
+        "year": 2019,
+        "amount": 534
+      }
+    ],
+    "length": "5.9",
+    "width": 5,
+    "height": "2.5",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "03/03/2007",
+    "createdAt": "22/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 28,
+    "number": 28,
+    "owner": {
+      "name": "Doreen Hudson",
+      "phone": "906 548 33 29"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 384
+      },
+      {
+        "year": 2001,
+        "amount": 370
+      },
+      {
+        "year": 2002,
+        "amount": 275
+      },
+      {
+        "year": 2003,
+        "amount": 108
+      },
+      {
+        "year": 2004,
+        "amount": 97
+      },
+      {
+        "year": 2005,
+        "amount": 109
+      },
+      {
+        "year": 2006,
+        "amount": 346
+      },
+      {
+        "year": 2007,
+        "amount": 167
+      },
+      {
+        "year": 2008,
+        "amount": 228
+      },
+      {
+        "year": 2009,
+        "amount": 344
+      },
+      {
+        "year": 2010,
+        "amount": 167
+      },
+      {
+        "year": 2011,
+        "amount": 44
+      },
+      {
+        "year": 2012,
+        "amount": 354
+      },
+      {
+        "year": 2013,
+        "amount": 302
+      },
+      {
+        "year": 2014,
+        "amount": 37
+      },
+      {
+        "year": 2015,
+        "amount": 25
+      },
+      {
+        "year": 2016,
+        "amount": 130
+      },
+      {
+        "year": 2017,
+        "amount": 60
+      },
+      {
+        "year": 2018,
+        "amount": 295
+      },
+      {
+        "year": 2019,
+        "amount": 316
+      }
+    ],
+    "length": "5.7",
+    "width": "4.8",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "05/12/2012",
+    "createdAt": "27/12/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 29,
+    "number": 29,
+    "owner": {
+      "name": "Beasley Jacobson",
+      "phone": "813 431 37 63"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 243
+      },
+      {
+        "year": 2001,
+        "amount": 183
+      },
+      {
+        "year": 2002,
+        "amount": 17
+      },
+      {
+        "year": 2003,
+        "amount": 82
+      },
+      {
+        "year": 2004,
+        "amount": 503
+      },
+      {
+        "year": 2005,
+        "amount": 521
+      },
+      {
+        "year": 2006,
+        "amount": 445
+      },
+      {
+        "year": 2007,
+        "amount": 528
+      },
+      {
+        "year": 2008,
+        "amount": 373
+      },
+      {
+        "year": 2009,
+        "amount": 154
+      },
+      {
+        "year": 2010,
+        "amount": 389
+      },
+      {
+        "year": 2011,
+        "amount": 30
+      },
+      {
+        "year": 2012,
+        "amount": 484
+      },
+      {
+        "year": 2013,
+        "amount": 123
+      },
+      {
+        "year": 2014,
+        "amount": 471
+      },
+      {
+        "year": 2015,
+        "amount": 524
+      },
+      {
+        "year": 2016,
+        "amount": 548
+      },
+      {
+        "year": 2017,
+        "amount": 258
+      },
+      {
+        "year": 2018,
+        "amount": 248
+      },
+      {
+        "year": 2019,
+        "amount": 410
+      }
+    ],
+    "length": 6,
+    "width": "4.5",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "10/09/2011",
+    "createdAt": "10/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 30,
+    "number": 30,
+    "owner": {
+      "name": "Rowe Porter",
+      "phone": "895 544 39 15"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 439
+      },
+      {
+        "year": 2001,
+        "amount": 326
+      },
+      {
+        "year": 2002,
+        "amount": 139
+      },
+      {
+        "year": 2003,
+        "amount": 465
+      },
+      {
+        "year": 2004,
+        "amount": 316
+      },
+      {
+        "year": 2005,
+        "amount": 71
+      },
+      {
+        "year": 2006,
+        "amount": 80
+      },
+      {
+        "year": 2007,
+        "amount": 250
+      },
+      {
+        "year": 2008,
+        "amount": 445
+      },
+      {
+        "year": 2009,
+        "amount": 176
+      },
+      {
+        "year": 2010,
+        "amount": 185
+      },
+      {
+        "year": 2011,
+        "amount": 594
+      },
+      {
+        "year": 2012,
+        "amount": 514
+      },
+      {
+        "year": 2013,
+        "amount": 286
+      },
+      {
+        "year": 2014,
+        "amount": 425
+      },
+      {
+        "year": 2015,
+        "amount": 55
+      },
+      {
+        "year": 2016,
+        "amount": 413
+      },
+      {
+        "year": 2017,
+        "amount": 139
+      },
+      {
+        "year": 2018,
+        "amount": 373
+      },
+      {
+        "year": 2019,
+        "amount": 286
+      }
+    ],
+    "length": "5.3",
+    "width": "4.6",
+    "height": 2,
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "12/05/2016",
+    "createdAt": "18/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 31,
+    "number": 31,
+    "owner": {
+      "name": "Margie Duffy",
+      "phone": "969 528 28 10"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 39
+      },
+      {
+        "year": 2001,
+        "amount": 73
+      },
+      {
+        "year": 2002,
+        "amount": 274
+      },
+      {
+        "year": 2003,
+        "amount": 591
+      },
+      {
+        "year": 2004,
+        "amount": 323
+      },
+      {
+        "year": 2005,
+        "amount": 483
+      },
+      {
+        "year": 2006,
+        "amount": 326
+      },
+      {
+        "year": 2007,
+        "amount": 555
+      },
+      {
+        "year": 2008,
+        "amount": 323
+      },
+      {
+        "year": 2009,
+        "amount": 73
+      },
+      {
+        "year": 2010,
+        "amount": 314
+      },
+      {
+        "year": 2011,
+        "amount": 359
+      },
+      {
+        "year": 2012,
+        "amount": 19
+      },
+      {
+        "year": 2013,
+        "amount": 499
+      },
+      {
+        "year": 2014,
+        "amount": 347
+      },
+      {
+        "year": 2015,
+        "amount": 424
+      },
+      {
+        "year": 2016,
+        "amount": 286
+      },
+      {
+        "year": 2017,
+        "amount": 251
+      },
+      {
+        "year": 2018,
+        "amount": 341
+      },
+      {
+        "year": 2019,
+        "amount": 400
+      }
+    ],
+    "length": "5.8",
+    "width": "4.5",
+    "height": "2.8",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "15/06/2007",
+    "createdAt": "12/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 32,
+    "number": 32,
+    "owner": {
+      "name": "Townsend Barry",
+      "phone": "924 501 32 01"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 565
+      },
+      {
+        "year": 2001,
+        "amount": 95
+      },
+      {
+        "year": 2002,
+        "amount": 572
+      },
+      {
+        "year": 2003,
+        "amount": 317
+      },
+      {
+        "year": 2004,
+        "amount": 534
+      },
+      {
+        "year": 2005,
+        "amount": 112
+      },
+      {
+        "year": 2006,
+        "amount": 584
+      },
+      {
+        "year": 2007,
+        "amount": 538
+      },
+      {
+        "year": 2008,
+        "amount": 441
+      },
+      {
+        "year": 2009,
+        "amount": 134
+      },
+      {
+        "year": 2010,
+        "amount": 539
+      },
+      {
+        "year": 2011,
+        "amount": 269
+      },
+      {
+        "year": 2012,
+        "amount": 504
+      },
+      {
+        "year": 2013,
+        "amount": 431
+      },
+      {
+        "year": 2014,
+        "amount": 426
+      },
+      {
+        "year": 2015,
+        "amount": 552
+      },
+      {
+        "year": 2016,
+        "amount": 44
+      },
+      {
+        "year": 2017,
+        "amount": 53
+      },
+      {
+        "year": 2018,
+        "amount": 391
+      },
+      {
+        "year": 2019,
+        "amount": 460
+      }
+    ],
+    "length": 5,
+    "width": "4.1",
+    "height": "2.9",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "28/05/2007",
+    "createdAt": "02/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 33,
+    "number": 33,
+    "owner": {
+      "name": "Leonard Garrett",
+      "phone": "891 578 28 56"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 543
+      },
+      {
+        "year": 2001,
+        "amount": 19
+      },
+      {
+        "year": 2002,
+        "amount": 289
+      },
+      {
+        "year": 2003,
+        "amount": 427
+      },
+      {
+        "year": 2004,
+        "amount": 55
+      },
+      {
+        "year": 2005,
+        "amount": 546
+      },
+      {
+        "year": 2006,
+        "amount": 119
+      },
+      {
+        "year": 2007,
+        "amount": 173
+      },
+      {
+        "year": 2008,
+        "amount": 566
+      },
+      {
+        "year": 2009,
+        "amount": 293
+      },
+      {
+        "year": 2010,
+        "amount": 541
+      },
+      {
+        "year": 2011,
+        "amount": 263
+      },
+      {
+        "year": 2012,
+        "amount": 398
+      },
+      {
+        "year": 2013,
+        "amount": 192
+      },
+      {
+        "year": 2014,
+        "amount": 128
+      },
+      {
+        "year": 2015,
+        "amount": 186
+      },
+      {
+        "year": 2016,
+        "amount": 68
+      },
+      {
+        "year": 2017,
+        "amount": 90
+      },
+      {
+        "year": 2018,
+        "amount": 526
+      },
+      {
+        "year": 2019,
+        "amount": 570
+      }
+    ],
+    "length": "5.3",
+    "width": "4.3",
+    "height": "2.5",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "20/07/2011",
+    "createdAt": "11/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 34,
+    "number": 34,
+    "owner": {
+      "name": "Schultz Morse",
+      "phone": "971 441 29 67"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 425
+      },
+      {
+        "year": 2001,
+        "amount": 378
+      },
+      {
+        "year": 2002,
+        "amount": 595
+      },
+      {
+        "year": 2003,
+        "amount": 418
+      },
+      {
+        "year": 2004,
+        "amount": 83
+      },
+      {
+        "year": 2005,
+        "amount": 218
+      },
+      {
+        "year": 2006,
+        "amount": 360
+      },
+      {
+        "year": 2007,
+        "amount": 163
+      },
+      {
+        "year": 2008,
+        "amount": 260
+      },
+      {
+        "year": 2009,
+        "amount": 252
+      },
+      {
+        "year": 2010,
+        "amount": 191
+      },
+      {
+        "year": 2011,
+        "amount": 343
+      },
+      {
+        "year": 2012,
+        "amount": 315
+      },
+      {
+        "year": 2013,
+        "amount": 515
+      },
+      {
+        "year": 2014,
+        "amount": 368
+      },
+      {
+        "year": 2015,
+        "amount": 58
+      },
+      {
+        "year": 2016,
+        "amount": 256
+      },
+      {
+        "year": 2017,
+        "amount": 460
+      },
+      {
+        "year": 2018,
+        "amount": 465
+      },
+      {
+        "year": 2019,
+        "amount": 374
+      }
+    ],
+    "length": "5.5",
+    "width": "4.8",
+    "height": "2.8",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "28/09/2011",
+    "createdAt": "10/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 35,
+    "number": 35,
+    "owner": {
+      "name": "Jensen Petty",
+      "phone": "971 444 33 34"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 392
+      },
+      {
+        "year": 2001,
+        "amount": 548
+      },
+      {
+        "year": 2002,
+        "amount": 215
+      },
+      {
+        "year": 2003,
+        "amount": 86
+      },
+      {
+        "year": 2004,
+        "amount": 447
+      },
+      {
+        "year": 2005,
+        "amount": 77
+      },
+      {
+        "year": 2006,
+        "amount": 69
+      },
+      {
+        "year": 2007,
+        "amount": 153
+      },
+      {
+        "year": 2008,
+        "amount": 34
+      },
+      {
+        "year": 2009,
+        "amount": 234
+      },
+      {
+        "year": 2010,
+        "amount": 345
+      },
+      {
+        "year": 2011,
+        "amount": 293
+      },
+      {
+        "year": 2012,
+        "amount": 487
+      },
+      {
+        "year": 2013,
+        "amount": 537
+      },
+      {
+        "year": 2014,
+        "amount": 320
+      },
+      {
+        "year": 2015,
+        "amount": 183
+      },
+      {
+        "year": 2016,
+        "amount": 449
+      },
+      {
+        "year": 2017,
+        "amount": 81
+      },
+      {
+        "year": 2018,
+        "amount": 364
+      },
+      {
+        "year": 2019,
+        "amount": 385
+      }
+    ],
+    "length": "5.9",
+    "width": "4.2",
+    "height": "2.5",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "15/12/2017",
+    "createdAt": "14/02/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 36,
+    "number": 36,
+    "owner": {
+      "name": "Margery York",
+      "phone": "974 572 21 70"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 278
+      },
+      {
+        "year": 2001,
+        "amount": 46
+      },
+      {
+        "year": 2002,
+        "amount": 22
+      },
+      {
+        "year": 2003,
+        "amount": 56
+      },
+      {
+        "year": 2004,
+        "amount": 38
+      },
+      {
+        "year": 2005,
+        "amount": 216
+      },
+      {
+        "year": 2006,
+        "amount": 456
+      },
+      {
+        "year": 2007,
+        "amount": 477
+      },
+      {
+        "year": 2008,
+        "amount": 252
+      },
+      {
+        "year": 2009,
+        "amount": 64
+      },
+      {
+        "year": 2010,
+        "amount": 203
+      },
+      {
+        "year": 2011,
+        "amount": 299
+      },
+      {
+        "year": 2012,
+        "amount": 459
+      },
+      {
+        "year": 2013,
+        "amount": 463
+      },
+      {
+        "year": 2014,
+        "amount": 296
+      },
+      {
+        "year": 2015,
+        "amount": 387
+      },
+      {
+        "year": 2016,
+        "amount": 12
+      },
+      {
+        "year": 2017,
+        "amount": 442
+      },
+      {
+        "year": 2018,
+        "amount": 222
+      },
+      {
+        "year": 2019,
+        "amount": 29
+      }
+    ],
+    "length": 5,
+    "width": "4.6",
+    "height": "2.7",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "27/05/2019",
+    "createdAt": "17/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 37,
+    "number": 37,
+    "owner": {
+      "name": "Morse Ortega",
+      "phone": "828 430 37 77"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 509
+      },
+      {
+        "year": 2001,
+        "amount": 498
+      },
+      {
+        "year": 2002,
+        "amount": 112
+      },
+      {
+        "year": 2003,
+        "amount": 513
+      },
+      {
+        "year": 2004,
+        "amount": 90
+      },
+      {
+        "year": 2005,
+        "amount": 569
+      },
+      {
+        "year": 2006,
+        "amount": 520
+      },
+      {
+        "year": 2007,
+        "amount": 418
+      },
+      {
+        "year": 2008,
+        "amount": 251
+      },
+      {
+        "year": 2009,
+        "amount": 29
+      },
+      {
+        "year": 2010,
+        "amount": 265
+      },
+      {
+        "year": 2011,
+        "amount": 149
+      },
+      {
+        "year": 2012,
+        "amount": 417
+      },
+      {
+        "year": 2013,
+        "amount": 460
+      },
+      {
+        "year": 2014,
+        "amount": 308
+      },
+      {
+        "year": 2015,
+        "amount": 422
+      },
+      {
+        "year": 2016,
+        "amount": 225
+      },
+      {
+        "year": 2017,
+        "amount": 333
+      },
+      {
+        "year": 2018,
+        "amount": 337
+      },
+      {
+        "year": 2019,
+        "amount": 289
+      }
+    ],
+    "length": "5.8",
+    "width": "4.4",
+    "height": "2.9",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "08/05/2014",
+    "createdAt": "08/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 38,
+    "number": 38,
+    "owner": {
+      "name": "Stanton Sullivan",
+      "phone": "885 415 21 21"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 456
+      },
+      {
+        "year": 2001,
+        "amount": 332
+      },
+      {
+        "year": 2002,
+        "amount": 538
+      },
+      {
+        "year": 2003,
+        "amount": 549
+      },
+      {
+        "year": 2004,
+        "amount": 225
+      },
+      {
+        "year": 2005,
+        "amount": 544
+      },
+      {
+        "year": 2006,
+        "amount": 94
+      },
+      {
+        "year": 2007,
+        "amount": 75
+      },
+      {
+        "year": 2008,
+        "amount": 163
+      },
+      {
+        "year": 2009,
+        "amount": 160
+      },
+      {
+        "year": 2010,
+        "amount": 41
+      },
+      {
+        "year": 2011,
+        "amount": 381
+      },
+      {
+        "year": 2012,
+        "amount": 278
+      },
+      {
+        "year": 2013,
+        "amount": 308
+      },
+      {
+        "year": 2014,
+        "amount": 250
+      },
+      {
+        "year": 2015,
+        "amount": 521
+      },
+      {
+        "year": 2016,
+        "amount": 496
+      },
+      {
+        "year": 2017,
+        "amount": 98
+      },
+      {
+        "year": 2018,
+        "amount": 455
+      },
+      {
+        "year": 2019,
+        "amount": 334
+      }
+    ],
+    "length": "5.6",
+    "width": "4.8",
+    "height": "2.1",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "08/10/2007",
+    "createdAt": "17/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 39,
+    "number": 39,
+    "owner": {
+      "name": "Sherry Huber",
+      "phone": "878 426 31 45"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 296
+      },
+      {
+        "year": 2001,
+        "amount": 402
+      },
+      {
+        "year": 2002,
+        "amount": 187
+      },
+      {
+        "year": 2003,
+        "amount": 198
+      },
+      {
+        "year": 2004,
+        "amount": 494
+      },
+      {
+        "year": 2005,
+        "amount": 175
+      },
+      {
+        "year": 2006,
+        "amount": 538
+      },
+      {
+        "year": 2007,
+        "amount": 387
+      },
+      {
+        "year": 2008,
+        "amount": 518
+      },
+      {
+        "year": 2009,
+        "amount": 558
+      },
+      {
+        "year": 2010,
+        "amount": 49
+      },
+      {
+        "year": 2011,
+        "amount": 590
+      },
+      {
+        "year": 2012,
+        "amount": 337
+      },
+      {
+        "year": 2013,
+        "amount": 287
+      },
+      {
+        "year": 2014,
+        "amount": 276
+      },
+      {
+        "year": 2015,
+        "amount": 491
+      },
+      {
+        "year": 2016,
+        "amount": 249
+      },
+      {
+        "year": 2017,
+        "amount": 352
+      },
+      {
+        "year": 2018,
+        "amount": 196
+      },
+      {
+        "year": 2019,
+        "amount": 428
+      }
+    ],
+    "length": "5.5",
+    "width": "4.2",
+    "height": "2.2",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "26/07/2015",
+    "createdAt": "19/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 40,
+    "number": 40,
+    "owner": {
+      "name": "York Kirby",
+      "phone": "839 508 29 80"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 39
+      },
+      {
+        "year": 2001,
+        "amount": 125
+      },
+      {
+        "year": 2002,
+        "amount": 1
+      },
+      {
+        "year": 2003,
+        "amount": 207
+      },
+      {
+        "year": 2004,
+        "amount": 383
+      },
+      {
+        "year": 2005,
+        "amount": 320
+      },
+      {
+        "year": 2006,
+        "amount": 164
+      },
+      {
+        "year": 2007,
+        "amount": 408
+      },
+      {
+        "year": 2008,
+        "amount": 277
+      },
+      {
+        "year": 2009,
+        "amount": 583
+      },
+      {
+        "year": 2010,
+        "amount": 21
+      },
+      {
+        "year": 2011,
+        "amount": 153
+      },
+      {
+        "year": 2012,
+        "amount": 466
+      },
+      {
+        "year": 2013,
+        "amount": 373
+      },
+      {
+        "year": 2014,
+        "amount": 570
+      },
+      {
+        "year": 2015,
+        "amount": 324
+      },
+      {
+        "year": 2016,
+        "amount": 406
+      },
+      {
+        "year": 2017,
+        "amount": 321
+      },
+      {
+        "year": 2018,
+        "amount": 402
+      },
+      {
+        "year": 2019,
+        "amount": 56
+      }
+    ],
+    "length": "5.3",
+    "width": "4.4",
+    "height": "2.6",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "26/02/2010",
+    "createdAt": "11/02/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 41,
+    "number": 41,
+    "owner": {
+      "name": "Ilene Keith",
+      "phone": "843 483 21 06"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 340
+      },
+      {
+        "year": 2001,
+        "amount": 224
+      },
+      {
+        "year": 2002,
+        "amount": 526
+      },
+      {
+        "year": 2003,
+        "amount": 175
+      },
+      {
+        "year": 2004,
+        "amount": 137
+      },
+      {
+        "year": 2005,
+        "amount": 167
+      },
+      {
+        "year": 2006,
+        "amount": 525
+      },
+      {
+        "year": 2007,
+        "amount": 2
+      },
+      {
+        "year": 2008,
+        "amount": 4
+      },
+      {
+        "year": 2009,
+        "amount": 424
+      },
+      {
+        "year": 2010,
+        "amount": 402
+      },
+      {
+        "year": 2011,
+        "amount": 77
+      },
+      {
+        "year": 2012,
+        "amount": 272
+      },
+      {
+        "year": 2013,
+        "amount": 535
+      },
+      {
+        "year": 2014,
+        "amount": 86
+      },
+      {
+        "year": 2015,
+        "amount": 67
+      },
+      {
+        "year": 2016,
+        "amount": 371
+      },
+      {
+        "year": 2017,
+        "amount": 337
+      },
+      {
+        "year": 2018,
+        "amount": 48
+      },
+      {
+        "year": 2019,
+        "amount": 456
+      }
+    ],
+    "length": "5.1",
+    "width": "4.4",
+    "height": "2.5",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "05/10/2019",
+    "createdAt": "22/02/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 42,
+    "number": 42,
+    "owner": {
+      "name": "Burke Joyce",
+      "phone": "963 499 29 84"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 412
+      },
+      {
+        "year": 2001,
+        "amount": 38
+      },
+      {
+        "year": 2002,
+        "amount": 553
+      },
+      {
+        "year": 2003,
+        "amount": 163
+      },
+      {
+        "year": 2004,
+        "amount": 137
+      },
+      {
+        "year": 2005,
+        "amount": 85
+      },
+      {
+        "year": 2006,
+        "amount": 399
+      },
+      {
+        "year": 2007,
+        "amount": 273
+      },
+      {
+        "year": 2008,
+        "amount": 543
+      },
+      {
+        "year": 2009,
+        "amount": 145
+      },
+      {
+        "year": 2010,
+        "amount": 209
+      },
+      {
+        "year": 2011,
+        "amount": 398
+      },
+      {
+        "year": 2012,
+        "amount": 174
+      },
+      {
+        "year": 2013,
+        "amount": 106
+      },
+      {
+        "year": 2014,
+        "amount": 211
+      },
+      {
+        "year": 2015,
+        "amount": 16
+      },
+      {
+        "year": 2016,
+        "amount": 205
+      },
+      {
+        "year": 2017,
+        "amount": 396
+      },
+      {
+        "year": 2018,
+        "amount": 543
+      },
+      {
+        "year": 2019,
+        "amount": 334
+      }
+    ],
+    "length": "5.6",
+    "width": "4.4",
+    "height": "2.5",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "24/02/2016",
+    "createdAt": "11/05/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 43,
+    "number": 43,
+    "owner": {
+      "name": "Robin Garza",
+      "phone": "861 590 28 22"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 169
+      },
+      {
+        "year": 2001,
+        "amount": 537
+      },
+      {
+        "year": 2002,
+        "amount": 386
+      },
+      {
+        "year": 2003,
+        "amount": 113
+      },
+      {
+        "year": 2004,
+        "amount": 482
+      },
+      {
+        "year": 2005,
+        "amount": 474
+      },
+      {
+        "year": 2006,
+        "amount": 313
+      },
+      {
+        "year": 2007,
+        "amount": 165
+      },
+      {
+        "year": 2008,
+        "amount": 326
+      },
+      {
+        "year": 2009,
+        "amount": 335
+      },
+      {
+        "year": 2010,
+        "amount": 560
+      },
+      {
+        "year": 2011,
+        "amount": 325
+      },
+      {
+        "year": 2012,
+        "amount": 120
+      },
+      {
+        "year": 2013,
+        "amount": 59
+      },
+      {
+        "year": 2014,
+        "amount": 282
+      },
+      {
+        "year": 2015,
+        "amount": 421
+      },
+      {
+        "year": 2016,
+        "amount": 403
+      },
+      {
+        "year": 2017,
+        "amount": 42
+      },
+      {
+        "year": 2018,
+        "amount": 307
+      },
+      {
+        "year": 2019,
+        "amount": 289
+      }
+    ],
+    "length": "5.4",
+    "width": "4.5",
+    "height": 2,
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "16/06/2011",
+    "createdAt": "27/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 44,
+    "number": 44,
+    "owner": {
+      "name": "Diaz Rutledge",
+      "phone": "964 565 21 04"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 70
+      },
+      {
+        "year": 2001,
+        "amount": 595
+      },
+      {
+        "year": 2002,
+        "amount": 67
+      },
+      {
+        "year": 2003,
+        "amount": 285
+      },
+      {
+        "year": 2004,
+        "amount": 195
+      },
+      {
+        "year": 2005,
+        "amount": 464
+      },
+      {
+        "year": 2006,
+        "amount": 408
+      },
+      {
+        "year": 2007,
+        "amount": 190
+      },
+      {
+        "year": 2008,
+        "amount": 344
+      },
+      {
+        "year": 2009,
+        "amount": 480
+      },
+      {
+        "year": 2010,
+        "amount": 52
+      },
+      {
+        "year": 2011,
+        "amount": 278
+      },
+      {
+        "year": 2012,
+        "amount": 438
+      },
+      {
+        "year": 2013,
+        "amount": 571
+      },
+      {
+        "year": 2014,
+        "amount": 218
+      },
+      {
+        "year": 2015,
+        "amount": 498
+      },
+      {
+        "year": 2016,
+        "amount": 301
+      },
+      {
+        "year": 2017,
+        "amount": 239
+      },
+      {
+        "year": 2018,
+        "amount": 246
+      },
+      {
+        "year": 2019,
+        "amount": 294
+      }
+    ],
+    "length": "5.8",
+    "width": 4,
+    "height": "2.6",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "01/03/2008",
+    "createdAt": "20/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 45,
+    "number": 45,
+    "owner": {
+      "name": "Wendy Stafford",
+      "phone": "890 418 20 40"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 289
+      },
+      {
+        "year": 2001,
+        "amount": 475
+      },
+      {
+        "year": 2002,
+        "amount": 71
+      },
+      {
+        "year": 2003,
+        "amount": 42
+      },
+      {
+        "year": 2004,
+        "amount": 442
+      },
+      {
+        "year": 2005,
+        "amount": 324
+      },
+      {
+        "year": 2006,
+        "amount": 132
+      },
+      {
+        "year": 2007,
+        "amount": 297
+      },
+      {
+        "year": 2008,
+        "amount": 107
+      },
+      {
+        "year": 2009,
+        "amount": 235
+      },
+      {
+        "year": 2010,
+        "amount": 298
+      },
+      {
+        "year": 2011,
+        "amount": 369
+      },
+      {
+        "year": 2012,
+        "amount": 194
+      },
+      {
+        "year": 2013,
+        "amount": 104
+      },
+      {
+        "year": 2014,
+        "amount": 433
+      },
+      {
+        "year": 2015,
+        "amount": 497
+      },
+      {
+        "year": 2016,
+        "amount": 440
+      },
+      {
+        "year": 2017,
+        "amount": 380
+      },
+      {
+        "year": 2018,
+        "amount": 581
+      },
+      {
+        "year": 2019,
+        "amount": 417
+      }
+    ],
+    "length": "5.1",
+    "width": "4.6",
+    "height": 2,
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "23/07/2015",
+    "createdAt": "19/01/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 46,
+    "number": 46,
+    "owner": {
+      "name": "Manuela Ortiz",
+      "phone": "929 510 37 72"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 490
+      },
+      {
+        "year": 2001,
+        "amount": 254
+      },
+      {
+        "year": 2002,
+        "amount": 435
+      },
+      {
+        "year": 2003,
+        "amount": 62
+      },
+      {
+        "year": 2004,
+        "amount": 274
+      },
+      {
+        "year": 2005,
+        "amount": 11
+      },
+      {
+        "year": 2006,
+        "amount": 499
+      },
+      {
+        "year": 2007,
+        "amount": 8
+      },
+      {
+        "year": 2008,
+        "amount": 224
+      },
+      {
+        "year": 2009,
+        "amount": 399
+      },
+      {
+        "year": 2010,
+        "amount": 412
+      },
+      {
+        "year": 2011,
+        "amount": 584
+      },
+      {
+        "year": 2012,
+        "amount": 237
+      },
+      {
+        "year": 2013,
+        "amount": 493
+      },
+      {
+        "year": 2014,
+        "amount": 526
+      },
+      {
+        "year": 2015,
+        "amount": 308
+      },
+      {
+        "year": 2016,
+        "amount": 67
+      },
+      {
+        "year": 2017,
+        "amount": 13
+      },
+      {
+        "year": 2018,
+        "amount": 29
+      },
+      {
+        "year": 2019,
+        "amount": 432
+      }
+    ],
+    "length": "5.9",
+    "width": 5,
+    "height": "2.5",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "03/02/2019",
+    "createdAt": "30/01/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 47,
+    "number": 47,
+    "owner": {
+      "name": "Cannon Walker",
+      "phone": "964 532 39 65"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 449
+      },
+      {
+        "year": 2001,
+        "amount": 441
+      },
+      {
+        "year": 2002,
+        "amount": 103
+      },
+      {
+        "year": 2003,
+        "amount": 83
+      },
+      {
+        "year": 2004,
+        "amount": 213
+      },
+      {
+        "year": 2005,
+        "amount": 296
+      },
+      {
+        "year": 2006,
+        "amount": 410
+      },
+      {
+        "year": 2007,
+        "amount": 42
+      },
+      {
+        "year": 2008,
+        "amount": 192
+      },
+      {
+        "year": 2009,
+        "amount": 254
+      },
+      {
+        "year": 2010,
+        "amount": 56
+      },
+      {
+        "year": 2011,
+        "amount": 132
+      },
+      {
+        "year": 2012,
+        "amount": 21
+      },
+      {
+        "year": 2013,
+        "amount": 598
+      },
+      {
+        "year": 2014,
+        "amount": 211
+      },
+      {
+        "year": 2015,
+        "amount": 562
+      },
+      {
+        "year": 2016,
+        "amount": 478
+      },
+      {
+        "year": 2017,
+        "amount": 433
+      },
+      {
+        "year": 2018,
+        "amount": 436
+      },
+      {
+        "year": 2019,
+        "amount": 407
+      }
+    ],
+    "length": "5.7",
+    "width": 5,
+    "height": "2.6",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "04/10/2012",
+    "createdAt": "12/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 48,
+    "number": 48,
+    "owner": {
+      "name": "Munoz Mathis",
+      "phone": "940 402 38 74"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 250
+      },
+      {
+        "year": 2001,
+        "amount": 199
+      },
+      {
+        "year": 2002,
+        "amount": 328
+      },
+      {
+        "year": 2003,
+        "amount": 7
+      },
+      {
+        "year": 2004,
+        "amount": 555
+      },
+      {
+        "year": 2005,
+        "amount": 530
+      },
+      {
+        "year": 2006,
+        "amount": 46
+      },
+      {
+        "year": 2007,
+        "amount": 472
+      },
+      {
+        "year": 2008,
+        "amount": 155
+      },
+      {
+        "year": 2009,
+        "amount": 323
+      },
+      {
+        "year": 2010,
+        "amount": 123
+      },
+      {
+        "year": 2011,
+        "amount": 269
+      },
+      {
+        "year": 2012,
+        "amount": 118
+      },
+      {
+        "year": 2013,
+        "amount": 270
+      },
+      {
+        "year": 2014,
+        "amount": 454
+      },
+      {
+        "year": 2015,
+        "amount": 122
+      },
+      {
+        "year": 2016,
+        "amount": 517
+      },
+      {
+        "year": 2017,
+        "amount": 507
+      },
+      {
+        "year": 2018,
+        "amount": 212
+      },
+      {
+        "year": 2019,
+        "amount": 44
+      }
+    ],
+    "length": "5.7",
+    "width": "4.8",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "24/07/2018",
+    "createdAt": "10/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 49,
+    "number": 49,
+    "owner": {
+      "name": "Queen Fisher",
+      "phone": "873 546 35 16"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 561
+      },
+      {
+        "year": 2001,
+        "amount": 208
+      },
+      {
+        "year": 2002,
+        "amount": 376
+      },
+      {
+        "year": 2003,
+        "amount": 338
+      },
+      {
+        "year": 2004,
+        "amount": 513
+      },
+      {
+        "year": 2005,
+        "amount": 132
+      },
+      {
+        "year": 2006,
+        "amount": 385
+      },
+      {
+        "year": 2007,
+        "amount": 3
+      },
+      {
+        "year": 2008,
+        "amount": 488
+      },
+      {
+        "year": 2009,
+        "amount": 503
+      },
+      {
+        "year": 2010,
+        "amount": 600
+      },
+      {
+        "year": 2011,
+        "amount": 9
+      },
+      {
+        "year": 2012,
+        "amount": 295
+      },
+      {
+        "year": 2013,
+        "amount": 385
+      },
+      {
+        "year": 2014,
+        "amount": 91
+      },
+      {
+        "year": 2015,
+        "amount": 556
+      },
+      {
+        "year": 2016,
+        "amount": 168
+      },
+      {
+        "year": 2017,
+        "amount": 431
+      },
+      {
+        "year": 2018,
+        "amount": 347
+      },
+      {
+        "year": 2019,
+        "amount": 443
+      }
+    ],
+    "length": "5.5",
+    "width": "4.3",
+    "height": "2.9",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "04/07/2008",
+    "createdAt": "03/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 50,
+    "number": 50,
+    "owner": {
+      "name": "Maxine William",
+      "phone": "862 584 21 70"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 265
+      },
+      {
+        "year": 2001,
+        "amount": 576
+      },
+      {
+        "year": 2002,
+        "amount": 314
+      },
+      {
+        "year": 2003,
+        "amount": 275
+      },
+      {
+        "year": 2004,
+        "amount": 53
+      },
+      {
+        "year": 2005,
+        "amount": 87
+      },
+      {
+        "year": 2006,
+        "amount": 403
+      },
+      {
+        "year": 2007,
+        "amount": 112
+      },
+      {
+        "year": 2008,
+        "amount": 306
+      },
+      {
+        "year": 2009,
+        "amount": 503
+      },
+      {
+        "year": 2010,
+        "amount": 497
+      },
+      {
+        "year": 2011,
+        "amount": 512
+      },
+      {
+        "year": 2012,
+        "amount": 389
+      },
+      {
+        "year": 2013,
+        "amount": 513
+      },
+      {
+        "year": 2014,
+        "amount": 208
+      },
+      {
+        "year": 2015,
+        "amount": 454
+      },
+      {
+        "year": 2016,
+        "amount": 153
+      },
+      {
+        "year": 2017,
+        "amount": 345
+      },
+      {
+        "year": 2018,
+        "amount": 197
+      },
+      {
+        "year": 2019,
+        "amount": 231
+      }
+    ],
+    "length": "5.3",
+    "width": 4,
+    "height": "2.3",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "22/01/2012",
+    "createdAt": "08/09/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 51,
+    "number": 51,
+    "owner": {
+      "name": "Leila Hogan",
+      "phone": "828 400 30 06"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 251
+      },
+      {
+        "year": 2001,
+        "amount": 521
+      },
+      {
+        "year": 2002,
+        "amount": 503
+      },
+      {
+        "year": 2003,
+        "amount": 304
+      },
+      {
+        "year": 2004,
+        "amount": 519
+      },
+      {
+        "year": 2005,
+        "amount": 193
+      },
+      {
+        "year": 2006,
+        "amount": 528
+      },
+      {
+        "year": 2007,
+        "amount": 576
+      },
+      {
+        "year": 2008,
+        "amount": 364
+      },
+      {
+        "year": 2009,
+        "amount": 105
+      },
+      {
+        "year": 2010,
+        "amount": 570
+      },
+      {
+        "year": 2011,
+        "amount": 213
+      },
+      {
+        "year": 2012,
+        "amount": 521
+      },
+      {
+        "year": 2013,
+        "amount": 125
+      },
+      {
+        "year": 2014,
+        "amount": 7
+      },
+      {
+        "year": 2015,
+        "amount": 143
+      },
+      {
+        "year": 2016,
+        "amount": 517
+      },
+      {
+        "year": 2017,
+        "amount": 257
+      },
+      {
+        "year": 2018,
+        "amount": 513
+      },
+      {
+        "year": 2019,
+        "amount": 357
+      }
+    ],
+    "length": 5,
+    "width": "4.4",
+    "height": "2.6",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "26/04/2012",
+    "createdAt": "04/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 52,
+    "number": 52,
+    "owner": {
+      "name": "Huff Sawyer",
+      "phone": "977 489 25 73"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 357
+      },
+      {
+        "year": 2001,
+        "amount": 435
+      },
+      {
+        "year": 2002,
+        "amount": 346
+      },
+      {
+        "year": 2003,
+        "amount": 172
+      },
+      {
+        "year": 2004,
+        "amount": 337
+      },
+      {
+        "year": 2005,
+        "amount": 149
+      },
+      {
+        "year": 2006,
+        "amount": 4
+      },
+      {
+        "year": 2007,
+        "amount": 181
+      },
+      {
+        "year": 2008,
+        "amount": 430
+      },
+      {
+        "year": 2009,
+        "amount": 153
+      },
+      {
+        "year": 2010,
+        "amount": 105
+      },
+      {
+        "year": 2011,
+        "amount": 180
+      },
+      {
+        "year": 2012,
+        "amount": 384
+      },
+      {
+        "year": 2013,
+        "amount": 581
+      },
+      {
+        "year": 2014,
+        "amount": 316
+      },
+      {
+        "year": 2015,
+        "amount": 348
+      },
+      {
+        "year": 2016,
+        "amount": 138
+      },
+      {
+        "year": 2017,
+        "amount": 574
+      },
+      {
+        "year": 2018,
+        "amount": 561
+      },
+      {
+        "year": 2019,
+        "amount": 256
+      }
+    ],
+    "length": "5.3",
+    "width": "4.3",
+    "height": 2,
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "08/12/2011",
+    "createdAt": "12/01/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 53,
+    "number": 53,
+    "owner": {
+      "name": "Janie Tran",
+      "phone": "953 569 24 77"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 407
+      },
+      {
+        "year": 2001,
+        "amount": 259
+      },
+      {
+        "year": 2002,
+        "amount": 245
+      },
+      {
+        "year": 2003,
+        "amount": 172
+      },
+      {
+        "year": 2004,
+        "amount": 136
+      },
+      {
+        "year": 2005,
+        "amount": 28
+      },
+      {
+        "year": 2006,
+        "amount": 535
+      },
+      {
+        "year": 2007,
+        "amount": 162
+      },
+      {
+        "year": 2008,
+        "amount": 382
+      },
+      {
+        "year": 2009,
+        "amount": 140
+      },
+      {
+        "year": 2010,
+        "amount": 456
+      },
+      {
+        "year": 2011,
+        "amount": 515
+      },
+      {
+        "year": 2012,
+        "amount": 199
+      },
+      {
+        "year": 2013,
+        "amount": 242
+      },
+      {
+        "year": 2014,
+        "amount": 195
+      },
+      {
+        "year": 2015,
+        "amount": 512
+      },
+      {
+        "year": 2016,
+        "amount": 37
+      },
+      {
+        "year": 2017,
+        "amount": 370
+      },
+      {
+        "year": 2018,
+        "amount": 109
+      },
+      {
+        "year": 2019,
+        "amount": 565
+      }
+    ],
+    "length": "5.3",
+    "width": "4.6",
+    "height": "2.6",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "25/09/2016",
+    "createdAt": "05/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 54,
+    "number": 54,
+    "owner": {
+      "name": "Prince Hess",
+      "phone": "924 483 32 14"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 120
+      },
+      {
+        "year": 2001,
+        "amount": 589
+      },
+      {
+        "year": 2002,
+        "amount": 116
+      },
+      {
+        "year": 2003,
+        "amount": 508
+      },
+      {
+        "year": 2004,
+        "amount": 134
+      },
+      {
+        "year": 2005,
+        "amount": 532
+      },
+      {
+        "year": 2006,
+        "amount": 570
+      },
+      {
+        "year": 2007,
+        "amount": 488
+      },
+      {
+        "year": 2008,
+        "amount": 559
+      },
+      {
+        "year": 2009,
+        "amount": 558
+      },
+      {
+        "year": 2010,
+        "amount": 203
+      },
+      {
+        "year": 2011,
+        "amount": 493
+      },
+      {
+        "year": 2012,
+        "amount": 313
+      },
+      {
+        "year": 2013,
+        "amount": 458
+      },
+      {
+        "year": 2014,
+        "amount": 405
+      },
+      {
+        "year": 2015,
+        "amount": 319
+      },
+      {
+        "year": 2016,
+        "amount": 50
+      },
+      {
+        "year": 2017,
+        "amount": 243
+      },
+      {
+        "year": 2018,
+        "amount": 349
+      },
+      {
+        "year": 2019,
+        "amount": 162
+      }
+    ],
+    "length": 6,
+    "width": "4.9",
+    "height": "2.2",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "27/03/2014",
+    "createdAt": "01/09/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 55,
+    "number": 55,
+    "owner": {
+      "name": "Levy Dennis",
+      "phone": "891 503 33 49"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 143
+      },
+      {
+        "year": 2001,
+        "amount": 18
+      },
+      {
+        "year": 2002,
+        "amount": 12
+      },
+      {
+        "year": 2003,
+        "amount": 413
+      },
+      {
+        "year": 2004,
+        "amount": 581
+      },
+      {
+        "year": 2005,
+        "amount": 31
+      },
+      {
+        "year": 2006,
+        "amount": 271
+      },
+      {
+        "year": 2007,
+        "amount": 83
+      },
+      {
+        "year": 2008,
+        "amount": 478
+      },
+      {
+        "year": 2009,
+        "amount": 286
+      },
+      {
+        "year": 2010,
+        "amount": 138
+      },
+      {
+        "year": 2011,
+        "amount": 385
+      },
+      {
+        "year": 2012,
+        "amount": 212
+      },
+      {
+        "year": 2013,
+        "amount": 145
+      },
+      {
+        "year": 2014,
+        "amount": 271
+      },
+      {
+        "year": 2015,
+        "amount": 568
+      },
+      {
+        "year": 2016,
+        "amount": 331
+      },
+      {
+        "year": 2017,
+        "amount": 55
+      },
+      {
+        "year": 2018,
+        "amount": 469
+      },
+      {
+        "year": 2019,
+        "amount": 154
+      }
+    ],
+    "length": "5.2",
+    "width": 4,
+    "height": "2.9",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "18/12/2012",
+    "createdAt": "09/09/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 56,
+    "number": 56,
+    "owner": {
+      "name": "Medina Sharpe",
+      "phone": "871 478 27 02"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 60
+      },
+      {
+        "year": 2001,
+        "amount": 567
+      },
+      {
+        "year": 2002,
+        "amount": 459
+      },
+      {
+        "year": 2003,
+        "amount": 196
+      },
+      {
+        "year": 2004,
+        "amount": 38
+      },
+      {
+        "year": 2005,
+        "amount": 279
+      },
+      {
+        "year": 2006,
+        "amount": 14
+      },
+      {
+        "year": 2007,
+        "amount": 35
+      },
+      {
+        "year": 2008,
+        "amount": 522
+      },
+      {
+        "year": 2009,
+        "amount": 478
+      },
+      {
+        "year": 2010,
+        "amount": 408
+      },
+      {
+        "year": 2011,
+        "amount": 514
+      },
+      {
+        "year": 2012,
+        "amount": 118
+      },
+      {
+        "year": 2013,
+        "amount": 351
+      },
+      {
+        "year": 2014,
+        "amount": 82
+      },
+      {
+        "year": 2015,
+        "amount": 393
+      },
+      {
+        "year": 2016,
+        "amount": 308
+      },
+      {
+        "year": 2017,
+        "amount": 70
+      },
+      {
+        "year": 2018,
+        "amount": 78
+      },
+      {
+        "year": 2019,
+        "amount": 21
+      }
+    ],
+    "length": "5.2",
+    "width": "4.5",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "10/09/2012",
+    "createdAt": "25/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 57,
+    "number": 57,
+    "owner": {
+      "name": "Cornelia Maynard",
+      "phone": "991 478 21 38"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 235
+      },
+      {
+        "year": 2001,
+        "amount": 304
+      },
+      {
+        "year": 2002,
+        "amount": 234
+      },
+      {
+        "year": 2003,
+        "amount": 125
+      },
+      {
+        "year": 2004,
+        "amount": 362
+      },
+      {
+        "year": 2005,
+        "amount": 232
+      },
+      {
+        "year": 2006,
+        "amount": 551
+      },
+      {
+        "year": 2007,
+        "amount": 98
+      },
+      {
+        "year": 2008,
+        "amount": 190
+      },
+      {
+        "year": 2009,
+        "amount": 48
+      },
+      {
+        "year": 2010,
+        "amount": 50
+      },
+      {
+        "year": 2011,
+        "amount": 165
+      },
+      {
+        "year": 2012,
+        "amount": 80
+      },
+      {
+        "year": 2013,
+        "amount": 169
+      },
+      {
+        "year": 2014,
+        "amount": 307
+      },
+      {
+        "year": 2015,
+        "amount": 393
+      },
+      {
+        "year": 2016,
+        "amount": 459
+      },
+      {
+        "year": 2017,
+        "amount": 247
+      },
+      {
+        "year": 2018,
+        "amount": 1
+      },
+      {
+        "year": 2019,
+        "amount": 137
+      }
+    ],
+    "length": "5.7",
+    "width": "4.6",
+    "height": "2.8",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "31/03/2012",
+    "createdAt": "09/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 58,
+    "number": 58,
+    "owner": {
+      "name": "Lucia Hewitt",
+      "phone": "837 575 39 66"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 300
+      },
+      {
+        "year": 2001,
+        "amount": 582
+      },
+      {
+        "year": 2002,
+        "amount": 473
+      },
+      {
+        "year": 2003,
+        "amount": 71
+      },
+      {
+        "year": 2004,
+        "amount": 163
+      },
+      {
+        "year": 2005,
+        "amount": 274
+      },
+      {
+        "year": 2006,
+        "amount": 444
+      },
+      {
+        "year": 2007,
+        "amount": 593
+      },
+      {
+        "year": 2008,
+        "amount": 403
+      },
+      {
+        "year": 2009,
+        "amount": 54
+      },
+      {
+        "year": 2010,
+        "amount": 557
+      },
+      {
+        "year": 2011,
+        "amount": 598
+      },
+      {
+        "year": 2012,
+        "amount": 397
+      },
+      {
+        "year": 2013,
+        "amount": 510
+      },
+      {
+        "year": 2014,
+        "amount": 270
+      },
+      {
+        "year": 2015,
+        "amount": 152
+      },
+      {
+        "year": 2016,
+        "amount": 518
+      },
+      {
+        "year": 2017,
+        "amount": 189
+      },
+      {
+        "year": 2018,
+        "amount": 486
+      },
+      {
+        "year": 2019,
+        "amount": 34
+      }
+    ],
+    "length": "5.8",
+    "width": "4.7",
+    "height": "2.2",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "24/11/2012",
+    "createdAt": "28/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 59,
+    "number": 59,
+    "owner": {
+      "name": "Rutledge Faulkner",
+      "phone": "916 473 24 43"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 59
+      },
+      {
+        "year": 2001,
+        "amount": 6
+      },
+      {
+        "year": 2002,
+        "amount": 264
+      },
+      {
+        "year": 2003,
+        "amount": 285
+      },
+      {
+        "year": 2004,
+        "amount": 128
+      },
+      {
+        "year": 2005,
+        "amount": 181
+      },
+      {
+        "year": 2006,
+        "amount": 124
+      },
+      {
+        "year": 2007,
+        "amount": 232
+      },
+      {
+        "year": 2008,
+        "amount": 259
+      },
+      {
+        "year": 2009,
+        "amount": 3
+      },
+      {
+        "year": 2010,
+        "amount": 563
+      },
+      {
+        "year": 2011,
+        "amount": 188
+      },
+      {
+        "year": 2012,
+        "amount": 4
+      },
+      {
+        "year": 2013,
+        "amount": 364
+      },
+      {
+        "year": 2014,
+        "amount": 149
+      },
+      {
+        "year": 2015,
+        "amount": 571
+      },
+      {
+        "year": 2016,
+        "amount": 216
+      },
+      {
+        "year": 2017,
+        "amount": 91
+      },
+      {
+        "year": 2018,
+        "amount": 425
+      },
+      {
+        "year": 2019,
+        "amount": 593
+      }
+    ],
+    "length": "5.1",
+    "width": "4.7",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "16/12/2017",
+    "createdAt": "16/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 60,
+    "number": 60,
+    "owner": {
+      "name": "Morton Wilkerson",
+      "phone": "850 596 37 28"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 599
+      },
+      {
+        "year": 2001,
+        "amount": 175
+      },
+      {
+        "year": 2002,
+        "amount": 419
+      },
+      {
+        "year": 2003,
+        "amount": 210
+      },
+      {
+        "year": 2004,
+        "amount": 344
+      },
+      {
+        "year": 2005,
+        "amount": 137
+      },
+      {
+        "year": 2006,
+        "amount": 373
+      },
+      {
+        "year": 2007,
+        "amount": 168
+      },
+      {
+        "year": 2008,
+        "amount": 432
+      },
+      {
+        "year": 2009,
+        "amount": 217
+      },
+      {
+        "year": 2010,
+        "amount": 141
+      },
+      {
+        "year": 2011,
+        "amount": 599
+      },
+      {
+        "year": 2012,
+        "amount": 207
+      },
+      {
+        "year": 2013,
+        "amount": 578
+      },
+      {
+        "year": 2014,
+        "amount": 452
+      },
+      {
+        "year": 2015,
+        "amount": 365
+      },
+      {
+        "year": 2016,
+        "amount": 201
+      },
+      {
+        "year": 2017,
+        "amount": 118
+      },
+      {
+        "year": 2018,
+        "amount": 226
+      },
+      {
+        "year": 2019,
+        "amount": 418
+      }
+    ],
+    "length": "5.4",
+    "width": "4.7",
+    "height": "2.8",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "07/01/2019",
+    "createdAt": "16/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 61,
+    "number": 61,
+    "owner": {
+      "name": "Mack Mullen",
+      "phone": "883 529 37 91"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 164
+      },
+      {
+        "year": 2001,
+        "amount": 211
+      },
+      {
+        "year": 2002,
+        "amount": 39
+      },
+      {
+        "year": 2003,
+        "amount": 243
+      },
+      {
+        "year": 2004,
+        "amount": 538
+      },
+      {
+        "year": 2005,
+        "amount": 162
+      },
+      {
+        "year": 2006,
+        "amount": 599
+      },
+      {
+        "year": 2007,
+        "amount": 593
+      },
+      {
+        "year": 2008,
+        "amount": 71
+      },
+      {
+        "year": 2009,
+        "amount": 40
+      },
+      {
+        "year": 2010,
+        "amount": 361
+      },
+      {
+        "year": 2011,
+        "amount": 37
+      },
+      {
+        "year": 2012,
+        "amount": 278
+      },
+      {
+        "year": 2013,
+        "amount": 380
+      },
+      {
+        "year": 2014,
+        "amount": 28
+      },
+      {
+        "year": 2015,
+        "amount": 184
+      },
+      {
+        "year": 2016,
+        "amount": 9
+      },
+      {
+        "year": 2017,
+        "amount": 238
+      },
+      {
+        "year": 2018,
+        "amount": 386
+      },
+      {
+        "year": 2019,
+        "amount": 137
+      }
+    ],
+    "length": "5.1",
+    "width": "4.2",
+    "height": "2.5",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "01/08/2018",
+    "createdAt": "29/01/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 62,
+    "number": 62,
+    "owner": {
+      "name": "Fischer Bishop",
+      "phone": "890 583 37 48"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 328
+      },
+      {
+        "year": 2001,
+        "amount": 339
+      },
+      {
+        "year": 2002,
+        "amount": 412
+      },
+      {
+        "year": 2003,
+        "amount": 591
+      },
+      {
+        "year": 2004,
+        "amount": 315
+      },
+      {
+        "year": 2005,
+        "amount": 438
+      },
+      {
+        "year": 2006,
+        "amount": 406
+      },
+      {
+        "year": 2007,
+        "amount": 75
+      },
+      {
+        "year": 2008,
+        "amount": 328
+      },
+      {
+        "year": 2009,
+        "amount": 318
+      },
+      {
+        "year": 2010,
+        "amount": 167
+      },
+      {
+        "year": 2011,
+        "amount": 153
+      },
+      {
+        "year": 2012,
+        "amount": 356
+      },
+      {
+        "year": 2013,
+        "amount": 83
+      },
+      {
+        "year": 2014,
+        "amount": 358
+      },
+      {
+        "year": 2015,
+        "amount": 125
+      },
+      {
+        "year": 2016,
+        "amount": 244
+      },
+      {
+        "year": 2017,
+        "amount": 236
+      },
+      {
+        "year": 2018,
+        "amount": 130
+      },
+      {
+        "year": 2019,
+        "amount": 60
+      }
+    ],
+    "length": "5.2",
+    "width": 4,
+    "height": 2,
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "01/10/2007",
+    "createdAt": "10/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 63,
+    "number": 63,
+    "owner": {
+      "name": "Cleo Sloan",
+      "phone": "880 416 29 55"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 553
+      },
+      {
+        "year": 2001,
+        "amount": 410
+      },
+      {
+        "year": 2002,
+        "amount": 361
+      },
+      {
+        "year": 2003,
+        "amount": 91
+      },
+      {
+        "year": 2004,
+        "amount": 551
+      },
+      {
+        "year": 2005,
+        "amount": 31
+      },
+      {
+        "year": 2006,
+        "amount": 590
+      },
+      {
+        "year": 2007,
+        "amount": 50
+      },
+      {
+        "year": 2008,
+        "amount": 504
+      },
+      {
+        "year": 2009,
+        "amount": 412
+      },
+      {
+        "year": 2010,
+        "amount": 15
+      },
+      {
+        "year": 2011,
+        "amount": 272
+      },
+      {
+        "year": 2012,
+        "amount": 321
+      },
+      {
+        "year": 2013,
+        "amount": 486
+      },
+      {
+        "year": 2014,
+        "amount": 102
+      },
+      {
+        "year": 2015,
+        "amount": 65
+      },
+      {
+        "year": 2016,
+        "amount": 39
+      },
+      {
+        "year": 2017,
+        "amount": 134
+      },
+      {
+        "year": 2018,
+        "amount": 346
+      },
+      {
+        "year": 2019,
+        "amount": 65
+      }
+    ],
+    "length": "5.7",
+    "width": "4.4",
+    "height": "2.4",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "18/12/2017",
+    "createdAt": "04/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 64,
+    "number": 64,
+    "owner": {
+      "name": "Faulkner Hale",
+      "phone": "945 565 22 31"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 426
+      },
+      {
+        "year": 2001,
+        "amount": 271
+      },
+      {
+        "year": 2002,
+        "amount": 491
+      },
+      {
+        "year": 2003,
+        "amount": 419
+      },
+      {
+        "year": 2004,
+        "amount": 360
+      },
+      {
+        "year": 2005,
+        "amount": 141
+      },
+      {
+        "year": 2006,
+        "amount": 554
+      },
+      {
+        "year": 2007,
+        "amount": 425
+      },
+      {
+        "year": 2008,
+        "amount": 354
+      },
+      {
+        "year": 2009,
+        "amount": 44
+      },
+      {
+        "year": 2010,
+        "amount": 477
+      },
+      {
+        "year": 2011,
+        "amount": 23
+      },
+      {
+        "year": 2012,
+        "amount": 538
+      },
+      {
+        "year": 2013,
+        "amount": 217
+      },
+      {
+        "year": 2014,
+        "amount": 572
+      },
+      {
+        "year": 2015,
+        "amount": 330
+      },
+      {
+        "year": 2016,
+        "amount": 465
+      },
+      {
+        "year": 2017,
+        "amount": 4
+      },
+      {
+        "year": 2018,
+        "amount": 76
+      },
+      {
+        "year": 2019,
+        "amount": 496
+      }
+    ],
+    "length": "5.3",
+    "width": "4.6",
+    "height": "2.4",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "02/12/2008",
+    "createdAt": "28/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 65,
+    "number": 65,
+    "owner": {
+      "name": "Holland Oliver",
+      "phone": "868 481 24 89"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 127
+      },
+      {
+        "year": 2001,
+        "amount": 525
+      },
+      {
+        "year": 2002,
+        "amount": 327
+      },
+      {
+        "year": 2003,
+        "amount": 94
+      },
+      {
+        "year": 2004,
+        "amount": 509
+      },
+      {
+        "year": 2005,
+        "amount": 309
+      },
+      {
+        "year": 2006,
+        "amount": 321
+      },
+      {
+        "year": 2007,
+        "amount": 504
+      },
+      {
+        "year": 2008,
+        "amount": 300
+      },
+      {
+        "year": 2009,
+        "amount": 41
+      },
+      {
+        "year": 2010,
+        "amount": 336
+      },
+      {
+        "year": 2011,
+        "amount": 133
+      },
+      {
+        "year": 2012,
+        "amount": 45
+      },
+      {
+        "year": 2013,
+        "amount": 312
+      },
+      {
+        "year": 2014,
+        "amount": 228
+      },
+      {
+        "year": 2015,
+        "amount": 334
+      },
+      {
+        "year": 2016,
+        "amount": 58
+      },
+      {
+        "year": 2017,
+        "amount": 62
+      },
+      {
+        "year": 2018,
+        "amount": 545
+      },
+      {
+        "year": 2019,
+        "amount": 391
+      }
+    ],
+    "length": 6,
+    "width": "4.9",
+    "height": 2,
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "22/11/2012",
+    "createdAt": "28/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 66,
+    "number": 66,
+    "owner": {
+      "name": "Garner Shaw",
+      "phone": "870 533 38 05"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 275
+      },
+      {
+        "year": 2001,
+        "amount": 371
+      },
+      {
+        "year": 2002,
+        "amount": 114
+      },
+      {
+        "year": 2003,
+        "amount": 132
+      },
+      {
+        "year": 2004,
+        "amount": 219
+      },
+      {
+        "year": 2005,
+        "amount": 509
+      },
+      {
+        "year": 2006,
+        "amount": 425
+      },
+      {
+        "year": 2007,
+        "amount": 460
+      },
+      {
+        "year": 2008,
+        "amount": 455
+      },
+      {
+        "year": 2009,
+        "amount": 582
+      },
+      {
+        "year": 2010,
+        "amount": 325
+      },
+      {
+        "year": 2011,
+        "amount": 381
+      },
+      {
+        "year": 2012,
+        "amount": 363
+      },
+      {
+        "year": 2013,
+        "amount": 216
+      },
+      {
+        "year": 2014,
+        "amount": 132
+      },
+      {
+        "year": 2015,
+        "amount": 95
+      },
+      {
+        "year": 2016,
+        "amount": 86
+      },
+      {
+        "year": 2017,
+        "amount": 431
+      },
+      {
+        "year": 2018,
+        "amount": 586
+      },
+      {
+        "year": 2019,
+        "amount": 595
+      }
+    ],
+    "length": "5.5",
+    "width": "4.6",
+    "height": "2.3",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "09/01/2011",
+    "createdAt": "04/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 67,
+    "number": 67,
+    "owner": {
+      "name": "Zimmerman Browning",
+      "phone": "822 490 30 96"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 214
+      },
+      {
+        "year": 2001,
+        "amount": 461
+      },
+      {
+        "year": 2002,
+        "amount": 436
+      },
+      {
+        "year": 2003,
+        "amount": 139
+      },
+      {
+        "year": 2004,
+        "amount": 429
+      },
+      {
+        "year": 2005,
+        "amount": 422
+      },
+      {
+        "year": 2006,
+        "amount": 455
+      },
+      {
+        "year": 2007,
+        "amount": 435
+      },
+      {
+        "year": 2008,
+        "amount": 178
+      },
+      {
+        "year": 2009,
+        "amount": 529
+      },
+      {
+        "year": 2010,
+        "amount": 335
+      },
+      {
+        "year": 2011,
+        "amount": 88
+      },
+      {
+        "year": 2012,
+        "amount": 41
+      },
+      {
+        "year": 2013,
+        "amount": 516
+      },
+      {
+        "year": 2014,
+        "amount": 136
+      },
+      {
+        "year": 2015,
+        "amount": 94
+      },
+      {
+        "year": 2016,
+        "amount": 536
+      },
+      {
+        "year": 2017,
+        "amount": 208
+      },
+      {
+        "year": 2018,
+        "amount": 33
+      },
+      {
+        "year": 2019,
+        "amount": 328
+      }
+    ],
+    "length": "5.4",
+    "width": "4.8",
+    "height": 2,
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "16/04/2010",
+    "createdAt": "10/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 68,
+    "number": 68,
+    "owner": {
+      "name": "Frank Hall",
+      "phone": "993 582 25 02"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 544
+      },
+      {
+        "year": 2001,
+        "amount": 149
+      },
+      {
+        "year": 2002,
+        "amount": 522
+      },
+      {
+        "year": 2003,
+        "amount": 305
+      },
+      {
+        "year": 2004,
+        "amount": 116
+      },
+      {
+        "year": 2005,
+        "amount": 209
+      },
+      {
+        "year": 2006,
+        "amount": 78
+      },
+      {
+        "year": 2007,
+        "amount": 519
+      },
+      {
+        "year": 2008,
+        "amount": 338
+      },
+      {
+        "year": 2009,
+        "amount": 5
+      },
+      {
+        "year": 2010,
+        "amount": 419
+      },
+      {
+        "year": 2011,
+        "amount": 23
+      },
+      {
+        "year": 2012,
+        "amount": 51
+      },
+      {
+        "year": 2013,
+        "amount": 322
+      },
+      {
+        "year": 2014,
+        "amount": 175
+      },
+      {
+        "year": 2015,
+        "amount": 188
+      },
+      {
+        "year": 2016,
+        "amount": 543
+      },
+      {
+        "year": 2017,
+        "amount": 115
+      },
+      {
+        "year": 2018,
+        "amount": 552
+      },
+      {
+        "year": 2019,
+        "amount": 99
+      }
+    ],
+    "length": "5.5",
+    "width": 5,
+    "height": "2.4",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "11/04/2012",
+    "createdAt": "14/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 69,
+    "number": 69,
+    "owner": {
+      "name": "Lott Meadows",
+      "phone": "920 473 31 12"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 175
+      },
+      {
+        "year": 2001,
+        "amount": 147
+      },
+      {
+        "year": 2002,
+        "amount": 443
+      },
+      {
+        "year": 2003,
+        "amount": 250
+      },
+      {
+        "year": 2004,
+        "amount": 336
+      },
+      {
+        "year": 2005,
+        "amount": 98
+      },
+      {
+        "year": 2006,
+        "amount": 25
+      },
+      {
+        "year": 2007,
+        "amount": 433
+      },
+      {
+        "year": 2008,
+        "amount": 21
+      },
+      {
+        "year": 2009,
+        "amount": 200
+      },
+      {
+        "year": 2010,
+        "amount": 586
+      },
+      {
+        "year": 2011,
+        "amount": 93
+      },
+      {
+        "year": 2012,
+        "amount": 182
+      },
+      {
+        "year": 2013,
+        "amount": 127
+      },
+      {
+        "year": 2014,
+        "amount": 224
+      },
+      {
+        "year": 2015,
+        "amount": 405
+      },
+      {
+        "year": 2016,
+        "amount": 492
+      },
+      {
+        "year": 2017,
+        "amount": 531
+      },
+      {
+        "year": 2018,
+        "amount": 428
+      },
+      {
+        "year": 2019,
+        "amount": 441
+      }
+    ],
+    "length": "5.1",
+    "width": "4.3",
+    "height": "2.7",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "28/02/2009",
+    "createdAt": "28/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 70,
+    "number": 70,
+    "owner": {
+      "name": "Ryan Glass",
+      "phone": "989 536 30 32"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 189
+      },
+      {
+        "year": 2001,
+        "amount": 195
+      },
+      {
+        "year": 2002,
+        "amount": 277
+      },
+      {
+        "year": 2003,
+        "amount": 111
+      },
+      {
+        "year": 2004,
+        "amount": 145
+      },
+      {
+        "year": 2005,
+        "amount": 84
+      },
+      {
+        "year": 2006,
+        "amount": 326
+      },
+      {
+        "year": 2007,
+        "amount": 323
+      },
+      {
+        "year": 2008,
+        "amount": 482
+      },
+      {
+        "year": 2009,
+        "amount": 464
+      },
+      {
+        "year": 2010,
+        "amount": 23
+      },
+      {
+        "year": 2011,
+        "amount": 236
+      },
+      {
+        "year": 2012,
+        "amount": 44
+      },
+      {
+        "year": 2013,
+        "amount": 313
+      },
+      {
+        "year": 2014,
+        "amount": 508
+      },
+      {
+        "year": 2015,
+        "amount": 437
+      },
+      {
+        "year": 2016,
+        "amount": 113
+      },
+      {
+        "year": 2017,
+        "amount": 5
+      },
+      {
+        "year": 2018,
+        "amount": 104
+      },
+      {
+        "year": 2019,
+        "amount": 373
+      }
+    ],
+    "length": "5.4",
+    "width": 5,
+    "height": "2.2",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "25/05/2019",
+    "createdAt": "18/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 71,
+    "number": 71,
+    "owner": {
+      "name": "Campos Rogers",
+      "phone": "845 503 32 94"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 9
+      },
+      {
+        "year": 2001,
+        "amount": 507
+      },
+      {
+        "year": 2002,
+        "amount": 270
+      },
+      {
+        "year": 2003,
+        "amount": 489
+      },
+      {
+        "year": 2004,
+        "amount": 239
+      },
+      {
+        "year": 2005,
+        "amount": 123
+      },
+      {
+        "year": 2006,
+        "amount": 140
+      },
+      {
+        "year": 2007,
+        "amount": 223
+      },
+      {
+        "year": 2008,
+        "amount": 363
+      },
+      {
+        "year": 2009,
+        "amount": 570
+      },
+      {
+        "year": 2010,
+        "amount": 268
+      },
+      {
+        "year": 2011,
+        "amount": 104
+      },
+      {
+        "year": 2012,
+        "amount": 464
+      },
+      {
+        "year": 2013,
+        "amount": 79
+      },
+      {
+        "year": 2014,
+        "amount": 554
+      },
+      {
+        "year": 2015,
+        "amount": 269
+      },
+      {
+        "year": 2016,
+        "amount": 326
+      },
+      {
+        "year": 2017,
+        "amount": 593
+      },
+      {
+        "year": 2018,
+        "amount": 144
+      },
+      {
+        "year": 2019,
+        "amount": 518
+      }
+    ],
+    "length": "5.8",
+    "width": 4,
+    "height": 2,
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "25/12/2015",
+    "createdAt": "08/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 72,
+    "number": 72,
+    "owner": {
+      "name": "Davenport Ball",
+      "phone": "927 491 25 32"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 511
+      },
+      {
+        "year": 2001,
+        "amount": 274
+      },
+      {
+        "year": 2002,
+        "amount": 13
+      },
+      {
+        "year": 2003,
+        "amount": 517
+      },
+      {
+        "year": 2004,
+        "amount": 50
+      },
+      {
+        "year": 2005,
+        "amount": 237
+      },
+      {
+        "year": 2006,
+        "amount": 40
+      },
+      {
+        "year": 2007,
+        "amount": 381
+      },
+      {
+        "year": 2008,
+        "amount": 270
+      },
+      {
+        "year": 2009,
+        "amount": 319
+      },
+      {
+        "year": 2010,
+        "amount": 389
+      },
+      {
+        "year": 2011,
+        "amount": 465
+      },
+      {
+        "year": 2012,
+        "amount": 448
+      },
+      {
+        "year": 2013,
+        "amount": 245
+      },
+      {
+        "year": 2014,
+        "amount": 331
+      },
+      {
+        "year": 2015,
+        "amount": 397
+      },
+      {
+        "year": 2016,
+        "amount": 583
+      },
+      {
+        "year": 2017,
+        "amount": 302
+      },
+      {
+        "year": 2018,
+        "amount": 195
+      },
+      {
+        "year": 2019,
+        "amount": 64
+      }
+    ],
+    "length": "5.9",
+    "width": "4.3",
+    "height": "2.9",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "24/04/2016",
+    "createdAt": "09/06/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 73,
+    "number": 73,
+    "owner": {
+      "name": "Burris Clemons",
+      "phone": "972 511 33 28"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 471
+      },
+      {
+        "year": 2001,
+        "amount": 51
+      },
+      {
+        "year": 2002,
+        "amount": 373
+      },
+      {
+        "year": 2003,
+        "amount": 279
+      },
+      {
+        "year": 2004,
+        "amount": 293
+      },
+      {
+        "year": 2005,
+        "amount": 256
+      },
+      {
+        "year": 2006,
+        "amount": 421
+      },
+      {
+        "year": 2007,
+        "amount": 401
+      },
+      {
+        "year": 2008,
+        "amount": 135
+      },
+      {
+        "year": 2009,
+        "amount": 171
+      },
+      {
+        "year": 2010,
+        "amount": 401
+      },
+      {
+        "year": 2011,
+        "amount": 27
+      },
+      {
+        "year": 2012,
+        "amount": 526
+      },
+      {
+        "year": 2013,
+        "amount": 285
+      },
+      {
+        "year": 2014,
+        "amount": 600
+      },
+      {
+        "year": 2015,
+        "amount": 45
+      },
+      {
+        "year": 2016,
+        "amount": 558
+      },
+      {
+        "year": 2017,
+        "amount": 437
+      },
+      {
+        "year": 2018,
+        "amount": 442
+      },
+      {
+        "year": 2019,
+        "amount": 479
+      }
+    ],
+    "length": 6,
+    "width": "4.8",
+    "height": "2.9",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "17/05/2011",
+    "createdAt": "22/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 74,
+    "number": 74,
+    "owner": {
+      "name": "Bobbie Copeland",
+      "phone": "889 495 28 10"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 118
+      },
+      {
+        "year": 2001,
+        "amount": 560
+      },
+      {
+        "year": 2002,
+        "amount": 358
+      },
+      {
+        "year": 2003,
+        "amount": 498
+      },
+      {
+        "year": 2004,
+        "amount": 91
+      },
+      {
+        "year": 2005,
+        "amount": 522
+      },
+      {
+        "year": 2006,
+        "amount": 143
+      },
+      {
+        "year": 2007,
+        "amount": 598
+      },
+      {
+        "year": 2008,
+        "amount": 237
+      },
+      {
+        "year": 2009,
+        "amount": 120
+      },
+      {
+        "year": 2010,
+        "amount": 9
+      },
+      {
+        "year": 2011,
+        "amount": 384
+      },
+      {
+        "year": 2012,
+        "amount": 219
+      },
+      {
+        "year": 2013,
+        "amount": 334
+      },
+      {
+        "year": 2014,
+        "amount": 90
+      },
+      {
+        "year": 2015,
+        "amount": 517
+      },
+      {
+        "year": 2016,
+        "amount": 218
+      },
+      {
+        "year": 2017,
+        "amount": 326
+      },
+      {
+        "year": 2018,
+        "amount": 516
+      },
+      {
+        "year": 2019,
+        "amount": 192
+      }
+    ],
+    "length": "5.6",
+    "width": "4.9",
+    "height": "2.3",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "14/08/2012",
+    "createdAt": "13/01/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 75,
+    "number": 75,
+    "owner": {
+      "name": "Fletcher Mccall",
+      "phone": "896 404 39 83"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 94
+      },
+      {
+        "year": 2001,
+        "amount": 421
+      },
+      {
+        "year": 2002,
+        "amount": 227
+      },
+      {
+        "year": 2003,
+        "amount": 93
+      },
+      {
+        "year": 2004,
+        "amount": 229
+      },
+      {
+        "year": 2005,
+        "amount": 215
+      },
+      {
+        "year": 2006,
+        "amount": 207
+      },
+      {
+        "year": 2007,
+        "amount": 589
+      },
+      {
+        "year": 2008,
+        "amount": 247
+      },
+      {
+        "year": 2009,
+        "amount": 409
+      },
+      {
+        "year": 2010,
+        "amount": 414
+      },
+      {
+        "year": 2011,
+        "amount": 228
+      },
+      {
+        "year": 2012,
+        "amount": 57
+      },
+      {
+        "year": 2013,
+        "amount": 454
+      },
+      {
+        "year": 2014,
+        "amount": 106
+      },
+      {
+        "year": 2015,
+        "amount": 2
+      },
+      {
+        "year": 2016,
+        "amount": 453
+      },
+      {
+        "year": 2017,
+        "amount": 101
+      },
+      {
+        "year": 2018,
+        "amount": 593
+      },
+      {
+        "year": 2019,
+        "amount": 144
+      }
+    ],
+    "length": "5.5",
+    "width": "4.7",
+    "height": "2.7",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "11/04/2008",
+    "createdAt": "14/02/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 76,
+    "number": 76,
+    "owner": {
+      "name": "Molly Keller",
+      "phone": "909 575 30 81"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 477
+      },
+      {
+        "year": 2001,
+        "amount": 398
+      },
+      {
+        "year": 2002,
+        "amount": 270
+      },
+      {
+        "year": 2003,
+        "amount": 525
+      },
+      {
+        "year": 2004,
+        "amount": 518
+      },
+      {
+        "year": 2005,
+        "amount": 209
+      },
+      {
+        "year": 2006,
+        "amount": 559
+      },
+      {
+        "year": 2007,
+        "amount": 196
+      },
+      {
+        "year": 2008,
+        "amount": 311
+      },
+      {
+        "year": 2009,
+        "amount": 366
+      },
+      {
+        "year": 2010,
+        "amount": 299
+      },
+      {
+        "year": 2011,
+        "amount": 189
+      },
+      {
+        "year": 2012,
+        "amount": 61
+      },
+      {
+        "year": 2013,
+        "amount": 253
+      },
+      {
+        "year": 2014,
+        "amount": 347
+      },
+      {
+        "year": 2015,
+        "amount": 355
+      },
+      {
+        "year": 2016,
+        "amount": 415
+      },
+      {
+        "year": 2017,
+        "amount": 94
+      },
+      {
+        "year": 2018,
+        "amount": 103
+      },
+      {
+        "year": 2019,
+        "amount": 460
+      }
+    ],
+    "length": "5.9",
+    "width": "4.7",
+    "height": "2.3",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "22/01/2008",
+    "createdAt": "04/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 77,
+    "number": 77,
+    "owner": {
+      "name": "Kemp Strickland",
+      "phone": "958 404 24 25"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 345
+      },
+      {
+        "year": 2001,
+        "amount": 512
+      },
+      {
+        "year": 2002,
+        "amount": 232
+      },
+      {
+        "year": 2003,
+        "amount": 75
+      },
+      {
+        "year": 2004,
+        "amount": 424
+      },
+      {
+        "year": 2005,
+        "amount": 331
+      },
+      {
+        "year": 2006,
+        "amount": 463
+      },
+      {
+        "year": 2007,
+        "amount": 380
+      },
+      {
+        "year": 2008,
+        "amount": 101
+      },
+      {
+        "year": 2009,
+        "amount": 249
+      },
+      {
+        "year": 2010,
+        "amount": 432
+      },
+      {
+        "year": 2011,
+        "amount": 150
+      },
+      {
+        "year": 2012,
+        "amount": 545
+      },
+      {
+        "year": 2013,
+        "amount": 512
+      },
+      {
+        "year": 2014,
+        "amount": 327
+      },
+      {
+        "year": 2015,
+        "amount": 227
+      },
+      {
+        "year": 2016,
+        "amount": 458
+      },
+      {
+        "year": 2017,
+        "amount": 452
+      },
+      {
+        "year": 2018,
+        "amount": 314
+      },
+      {
+        "year": 2019,
+        "amount": 523
+      }
+    ],
+    "length": "5.7",
+    "width": "4.2",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "19/02/2014",
+    "createdAt": "05/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 78,
+    "number": 78,
+    "owner": {
+      "name": "Monroe Roman",
+      "phone": "833 453 29 57"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 366
+      },
+      {
+        "year": 2001,
+        "amount": 385
+      },
+      {
+        "year": 2002,
+        "amount": 242
+      },
+      {
+        "year": 2003,
+        "amount": 404
+      },
+      {
+        "year": 2004,
+        "amount": 182
+      },
+      {
+        "year": 2005,
+        "amount": 313
+      },
+      {
+        "year": 2006,
+        "amount": 371
+      },
+      {
+        "year": 2007,
+        "amount": 320
+      },
+      {
+        "year": 2008,
+        "amount": 531
+      },
+      {
+        "year": 2009,
+        "amount": 441
+      },
+      {
+        "year": 2010,
+        "amount": 367
+      },
+      {
+        "year": 2011,
+        "amount": 142
+      },
+      {
+        "year": 2012,
+        "amount": 367
+      },
+      {
+        "year": 2013,
+        "amount": 93
+      },
+      {
+        "year": 2014,
+        "amount": 286
+      },
+      {
+        "year": 2015,
+        "amount": 366
+      },
+      {
+        "year": 2016,
+        "amount": 529
+      },
+      {
+        "year": 2017,
+        "amount": 75
+      },
+      {
+        "year": 2018,
+        "amount": 70
+      },
+      {
+        "year": 2019,
+        "amount": 353
+      }
+    ],
+    "length": "5.3",
+    "width": "4.2",
+    "height": "2.2",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "21/02/2007",
+    "createdAt": "11/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 79,
+    "number": 79,
+    "owner": {
+      "name": "Jodi Cooley",
+      "phone": "863 556 32 30"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 257
+      },
+      {
+        "year": 2001,
+        "amount": 557
+      },
+      {
+        "year": 2002,
+        "amount": 323
+      },
+      {
+        "year": 2003,
+        "amount": 333
+      },
+      {
+        "year": 2004,
+        "amount": 1
+      },
+      {
+        "year": 2005,
+        "amount": 335
+      },
+      {
+        "year": 2006,
+        "amount": 139
+      },
+      {
+        "year": 2007,
+        "amount": 515
+      },
+      {
+        "year": 2008,
+        "amount": 475
+      },
+      {
+        "year": 2009,
+        "amount": 228
+      },
+      {
+        "year": 2010,
+        "amount": 33
+      },
+      {
+        "year": 2011,
+        "amount": 146
+      },
+      {
+        "year": 2012,
+        "amount": 362
+      },
+      {
+        "year": 2013,
+        "amount": 425
+      },
+      {
+        "year": 2014,
+        "amount": 283
+      },
+      {
+        "year": 2015,
+        "amount": 573
+      },
+      {
+        "year": 2016,
+        "amount": 26
+      },
+      {
+        "year": 2017,
+        "amount": 194
+      },
+      {
+        "year": 2018,
+        "amount": 504
+      },
+      {
+        "year": 2019,
+        "amount": 424
+      }
+    ],
+    "length": 6,
+    "width": "4.7",
+    "height": "2.9",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "10/01/2015",
+    "createdAt": "04/05/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 80,
+    "number": 80,
+    "owner": {
+      "name": "Kitty Ingram",
+      "phone": "852 574 29 14"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 523
+      },
+      {
+        "year": 2001,
+        "amount": 482
+      },
+      {
+        "year": 2002,
+        "amount": 103
+      },
+      {
+        "year": 2003,
+        "amount": 235
+      },
+      {
+        "year": 2004,
+        "amount": 531
+      },
+      {
+        "year": 2005,
+        "amount": 75
+      },
+      {
+        "year": 2006,
+        "amount": 536
+      },
+      {
+        "year": 2007,
+        "amount": 400
+      },
+      {
+        "year": 2008,
+        "amount": 436
+      },
+      {
+        "year": 2009,
+        "amount": 431
+      },
+      {
+        "year": 2010,
+        "amount": 282
+      },
+      {
+        "year": 2011,
+        "amount": 375
+      },
+      {
+        "year": 2012,
+        "amount": 180
+      },
+      {
+        "year": 2013,
+        "amount": 461
+      },
+      {
+        "year": 2014,
+        "amount": 382
+      },
+      {
+        "year": 2015,
+        "amount": 357
+      },
+      {
+        "year": 2016,
+        "amount": 525
+      },
+      {
+        "year": 2017,
+        "amount": 276
+      },
+      {
+        "year": 2018,
+        "amount": 509
+      },
+      {
+        "year": 2019,
+        "amount": 303
+      }
+    ],
+    "length": "5.3",
+    "width": "4.9",
+    "height": "2.7",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "15/07/2015",
+    "createdAt": "19/01/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 81,
+    "number": 81,
+    "owner": {
+      "name": "Janna Mccullough",
+      "phone": "993 599 39 39"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 289
+      },
+      {
+        "year": 2001,
+        "amount": 1
+      },
+      {
+        "year": 2002,
+        "amount": 226
+      },
+      {
+        "year": 2003,
+        "amount": 564
+      },
+      {
+        "year": 2004,
+        "amount": 485
+      },
+      {
+        "year": 2005,
+        "amount": 356
+      },
+      {
+        "year": 2006,
+        "amount": 390
+      },
+      {
+        "year": 2007,
+        "amount": 129
+      },
+      {
+        "year": 2008,
+        "amount": 132
+      },
+      {
+        "year": 2009,
+        "amount": 508
+      },
+      {
+        "year": 2010,
+        "amount": 81
+      },
+      {
+        "year": 2011,
+        "amount": 472
+      },
+      {
+        "year": 2012,
+        "amount": 458
+      },
+      {
+        "year": 2013,
+        "amount": 481
+      },
+      {
+        "year": 2014,
+        "amount": 246
+      },
+      {
+        "year": 2015,
+        "amount": 226
+      },
+      {
+        "year": 2016,
+        "amount": 426
+      },
+      {
+        "year": 2017,
+        "amount": 232
+      },
+      {
+        "year": 2018,
+        "amount": 73
+      },
+      {
+        "year": 2019,
+        "amount": 206
+      }
+    ],
+    "length": 5,
+    "width": "4.1",
+    "height": "2.9",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "04/05/2015",
+    "createdAt": "08/01/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 82,
+    "number": 82,
+    "owner": {
+      "name": "Wells Benjamin",
+      "phone": "936 513 31 63"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 278
+      },
+      {
+        "year": 2001,
+        "amount": 302
+      },
+      {
+        "year": 2002,
+        "amount": 315
+      },
+      {
+        "year": 2003,
+        "amount": 587
+      },
+      {
+        "year": 2004,
+        "amount": 315
+      },
+      {
+        "year": 2005,
+        "amount": 568
+      },
+      {
+        "year": 2006,
+        "amount": 252
+      },
+      {
+        "year": 2007,
+        "amount": 295
+      },
+      {
+        "year": 2008,
+        "amount": 314
+      },
+      {
+        "year": 2009,
+        "amount": 133
+      },
+      {
+        "year": 2010,
+        "amount": 235
+      },
+      {
+        "year": 2011,
+        "amount": 114
+      },
+      {
+        "year": 2012,
+        "amount": 197
+      },
+      {
+        "year": 2013,
+        "amount": 359
+      },
+      {
+        "year": 2014,
+        "amount": 519
+      },
+      {
+        "year": 2015,
+        "amount": 277
+      },
+      {
+        "year": 2016,
+        "amount": 141
+      },
+      {
+        "year": 2017,
+        "amount": 188
+      },
+      {
+        "year": 2018,
+        "amount": 372
+      },
+      {
+        "year": 2019,
+        "amount": 556
+      }
+    ],
+    "length": "5.3",
+    "width": "4.8",
+    "height": "2.8",
+    "manhole": true,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "16/09/2015",
+    "createdAt": "01/02/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 83,
+    "number": 83,
+    "owner": {
+      "name": "Claudette Bradshaw",
+      "phone": "826 541 26 31"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 167
+      },
+      {
+        "year": 2001,
+        "amount": 548
+      },
+      {
+        "year": 2002,
+        "amount": 467
+      },
+      {
+        "year": 2003,
+        "amount": 454
+      },
+      {
+        "year": 2004,
+        "amount": 287
+      },
+      {
+        "year": 2005,
+        "amount": 495
+      },
+      {
+        "year": 2006,
+        "amount": 434
+      },
+      {
+        "year": 2007,
+        "amount": 148
+      },
+      {
+        "year": 2008,
+        "amount": 408
+      },
+      {
+        "year": 2009,
+        "amount": 70
+      },
+      {
+        "year": 2010,
+        "amount": 437
+      },
+      {
+        "year": 2011,
+        "amount": 395
+      },
+      {
+        "year": 2012,
+        "amount": 461
+      },
+      {
+        "year": 2013,
+        "amount": 268
+      },
+      {
+        "year": 2014,
+        "amount": 550
+      },
+      {
+        "year": 2015,
+        "amount": 57
+      },
+      {
+        "year": 2016,
+        "amount": 498
+      },
+      {
+        "year": 2017,
+        "amount": 245
+      },
+      {
+        "year": 2018,
+        "amount": 3
+      },
+      {
+        "year": 2019,
+        "amount": 109
+      }
+    ],
+    "length": "5.8",
+    "width": 4,
+    "height": "2.9",
+    "manhole": false,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "02/05/2014",
+    "createdAt": "11/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 84,
+    "number": 84,
+    "owner": {
+      "name": "Arline Leonard",
+      "phone": "818 435 27 79"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 238
+      },
+      {
+        "year": 2001,
+        "amount": 351
+      },
+      {
+        "year": 2002,
+        "amount": 357
+      },
+      {
+        "year": 2003,
+        "amount": 348
+      },
+      {
+        "year": 2004,
+        "amount": 28
+      },
+      {
+        "year": 2005,
+        "amount": 531
+      },
+      {
+        "year": 2006,
+        "amount": 587
+      },
+      {
+        "year": 2007,
+        "amount": 306
+      },
+      {
+        "year": 2008,
+        "amount": 329
+      },
+      {
+        "year": 2009,
+        "amount": 19
+      },
+      {
+        "year": 2010,
+        "amount": 291
+      },
+      {
+        "year": 2011,
+        "amount": 110
+      },
+      {
+        "year": 2012,
+        "amount": 22
+      },
+      {
+        "year": 2013,
+        "amount": 169
+      },
+      {
+        "year": 2014,
+        "amount": 81
+      },
+      {
+        "year": 2015,
+        "amount": 274
+      },
+      {
+        "year": 2016,
+        "amount": 339
+      },
+      {
+        "year": 2017,
+        "amount": 269
+      },
+      {
+        "year": 2018,
+        "amount": 407
+      },
+      {
+        "year": 2019,
+        "amount": 226
+      }
+    ],
+    "length": "5.4",
+    "width": "4.7",
+    "height": "2.8",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "14/02/2016",
+    "createdAt": "09/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 85,
+    "number": 85,
+    "owner": {
+      "name": "Burt Massey",
+      "phone": "898 595 33 72"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 391
+      },
+      {
+        "year": 2001,
+        "amount": 219
+      },
+      {
+        "year": 2002,
+        "amount": 110
+      },
+      {
+        "year": 2003,
+        "amount": 313
+      },
+      {
+        "year": 2004,
+        "amount": 411
+      },
+      {
+        "year": 2005,
+        "amount": 215
+      },
+      {
+        "year": 2006,
+        "amount": 558
+      },
+      {
+        "year": 2007,
+        "amount": 218
+      },
+      {
+        "year": 2008,
+        "amount": 63
+      },
+      {
+        "year": 2009,
+        "amount": 241
+      },
+      {
+        "year": 2010,
+        "amount": 373
+      },
+      {
+        "year": 2011,
+        "amount": 483
+      },
+      {
+        "year": 2012,
+        "amount": 468
+      },
+      {
+        "year": 2013,
+        "amount": 52
+      },
+      {
+        "year": 2014,
+        "amount": 522
+      },
+      {
+        "year": 2015,
+        "amount": 31
+      },
+      {
+        "year": 2016,
+        "amount": 159
+      },
+      {
+        "year": 2017,
+        "amount": 401
+      },
+      {
+        "year": 2018,
+        "amount": 46
+      },
+      {
+        "year": 2019,
+        "amount": 15
+      }
+    ],
+    "length": "5.8",
+    "width": "4.3",
+    "height": "2.6",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "02/12/2019",
+    "createdAt": "13/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 86,
+    "number": 86,
+    "owner": {
+      "name": "Pitts Griffin",
+      "phone": "894 528 25 00"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 469
+      },
+      {
+        "year": 2001,
+        "amount": 27
+      },
+      {
+        "year": 2002,
+        "amount": 203
+      },
+      {
+        "year": 2003,
+        "amount": 73
+      },
+      {
+        "year": 2004,
+        "amount": 325
+      },
+      {
+        "year": 2005,
+        "amount": 237
+      },
+      {
+        "year": 2006,
+        "amount": 34
+      },
+      {
+        "year": 2007,
+        "amount": 449
+      },
+      {
+        "year": 2008,
+        "amount": 262
+      },
+      {
+        "year": 2009,
+        "amount": 239
+      },
+      {
+        "year": 2010,
+        "amount": 290
+      },
+      {
+        "year": 2011,
+        "amount": 426
+      },
+      {
+        "year": 2012,
+        "amount": 148
+      },
+      {
+        "year": 2013,
+        "amount": 100
+      },
+      {
+        "year": 2014,
+        "amount": 471
+      },
+      {
+        "year": 2015,
+        "amount": 211
+      },
+      {
+        "year": 2016,
+        "amount": 527
+      },
+      {
+        "year": 2017,
+        "amount": 321
+      },
+      {
+        "year": 2018,
+        "amount": 405
+      },
+      {
+        "year": 2019,
+        "amount": 315
+      }
+    ],
+    "length": "5.9",
+    "width": "4.3",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "02/04/2007",
+    "createdAt": "09/12/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 87,
+    "number": 87,
+    "owner": {
+      "name": "Saunders Cunningham",
+      "phone": "913 446 34 32"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 43
+      },
+      {
+        "year": 2001,
+        "amount": 276
+      },
+      {
+        "year": 2002,
+        "amount": 502
+      },
+      {
+        "year": 2003,
+        "amount": 421
+      },
+      {
+        "year": 2004,
+        "amount": 382
+      },
+      {
+        "year": 2005,
+        "amount": 563
+      },
+      {
+        "year": 2006,
+        "amount": 426
+      },
+      {
+        "year": 2007,
+        "amount": 415
+      },
+      {
+        "year": 2008,
+        "amount": 183
+      },
+      {
+        "year": 2009,
+        "amount": 600
+      },
+      {
+        "year": 2010,
+        "amount": 512
+      },
+      {
+        "year": 2011,
+        "amount": 80
+      },
+      {
+        "year": 2012,
+        "amount": 10
+      },
+      {
+        "year": 2013,
+        "amount": 405
+      },
+      {
+        "year": 2014,
+        "amount": 428
+      },
+      {
+        "year": 2015,
+        "amount": 363
+      },
+      {
+        "year": 2016,
+        "amount": 586
+      },
+      {
+        "year": 2017,
+        "amount": 168
+      },
+      {
+        "year": 2018,
+        "amount": 306
+      },
+      {
+        "year": 2019,
+        "amount": 540
+      }
+    ],
+    "length": "5.5",
+    "width": "4.2",
+    "height": "2.3",
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "08/09/2019",
+    "createdAt": "27/03/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 88,
+    "number": 88,
+    "owner": {
+      "name": "Downs Richard",
+      "phone": "835 584 24 04"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 156
+      },
+      {
+        "year": 2001,
+        "amount": 298
+      },
+      {
+        "year": 2002,
+        "amount": 168
+      },
+      {
+        "year": 2003,
+        "amount": 503
+      },
+      {
+        "year": 2004,
+        "amount": 558
+      },
+      {
+        "year": 2005,
+        "amount": 288
+      },
+      {
+        "year": 2006,
+        "amount": 440
+      },
+      {
+        "year": 2007,
+        "amount": 4
+      },
+      {
+        "year": 2008,
+        "amount": 272
+      },
+      {
+        "year": 2009,
+        "amount": 418
+      },
+      {
+        "year": 2010,
+        "amount": 284
+      },
+      {
+        "year": 2011,
+        "amount": 186
+      },
+      {
+        "year": 2012,
+        "amount": 457
+      },
+      {
+        "year": 2013,
+        "amount": 431
+      },
+      {
+        "year": 2014,
+        "amount": 354
+      },
+      {
+        "year": 2015,
+        "amount": 115
+      },
+      {
+        "year": 2016,
+        "amount": 468
+      },
+      {
+        "year": 2017,
+        "amount": 241
+      },
+      {
+        "year": 2018,
+        "amount": 468
+      },
+      {
+        "year": 2019,
+        "amount": 505
+      }
+    ],
+    "length": "5.7",
+    "width": "4.5",
+    "height": 2,
+    "manhole": false,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "30/05/2017",
+    "createdAt": "31/01/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 89,
+    "number": 89,
+    "owner": {
+      "name": "Miles Nguyen",
+      "phone": "942 483 32 91"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 32
+      },
+      {
+        "year": 2001,
+        "amount": 132
+      },
+      {
+        "year": 2002,
+        "amount": 233
+      },
+      {
+        "year": 2003,
+        "amount": 464
+      },
+      {
+        "year": 2004,
+        "amount": 109
+      },
+      {
+        "year": 2005,
+        "amount": 278
+      },
+      {
+        "year": 2006,
+        "amount": 284
+      },
+      {
+        "year": 2007,
+        "amount": 288
+      },
+      {
+        "year": 2008,
+        "amount": 501
+      },
+      {
+        "year": 2009,
+        "amount": 52
+      },
+      {
+        "year": 2010,
+        "amount": 27
+      },
+      {
+        "year": 2011,
+        "amount": 242
+      },
+      {
+        "year": 2012,
+        "amount": 352
+      },
+      {
+        "year": 2013,
+        "amount": 506
+      },
+      {
+        "year": 2014,
+        "amount": 309
+      },
+      {
+        "year": 2015,
+        "amount": 509
+      },
+      {
+        "year": 2016,
+        "amount": 288
+      },
+      {
+        "year": 2017,
+        "amount": 534
+      },
+      {
+        "year": 2018,
+        "amount": 344
+      },
+      {
+        "year": 2019,
+        "amount": 13
+      }
+    ],
+    "length": "5.5",
+    "width": 5,
+    "height": "2.7",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": false,
+    "buildDate": "21/12/2010",
+    "createdAt": "24/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 90,
+    "number": 90,
+    "owner": {
+      "name": "Pace Watson",
+      "phone": "994 556 23 26"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 535
+      },
+      {
+        "year": 2001,
+        "amount": 41
+      },
+      {
+        "year": 2002,
+        "amount": 272
+      },
+      {
+        "year": 2003,
+        "amount": 425
+      },
+      {
+        "year": 2004,
+        "amount": 145
+      },
+      {
+        "year": 2005,
+        "amount": 3
+      },
+      {
+        "year": 2006,
+        "amount": 368
+      },
+      {
+        "year": 2007,
+        "amount": 96
+      },
+      {
+        "year": 2008,
+        "amount": 490
+      },
+      {
+        "year": 2009,
+        "amount": 295
+      },
+      {
+        "year": 2010,
+        "amount": 223
+      },
+      {
+        "year": 2011,
+        "amount": 371
+      },
+      {
+        "year": 2012,
+        "amount": 501
+      },
+      {
+        "year": 2013,
+        "amount": 535
+      },
+      {
+        "year": 2014,
+        "amount": 408
+      },
+      {
+        "year": 2015,
+        "amount": 421
+      },
+      {
+        "year": 2016,
+        "amount": 171
+      },
+      {
+        "year": 2017,
+        "amount": 133
+      },
+      {
+        "year": 2018,
+        "amount": 181
+      },
+      {
+        "year": 2019,
+        "amount": 372
+      }
+    ],
+    "length": "5.3",
+    "width": "4.2",
+    "height": "2.1",
+    "manhole": false,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "24/08/2019",
+    "createdAt": "18/08/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 91,
+    "number": 91,
+    "owner": {
+      "name": "Freida Miles",
+      "phone": "876 491 22 15"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 46
+      },
+      {
+        "year": 2001,
+        "amount": 435
+      },
+      {
+        "year": 2002,
+        "amount": 96
+      },
+      {
+        "year": 2003,
+        "amount": 199
+      },
+      {
+        "year": 2004,
+        "amount": 205
+      },
+      {
+        "year": 2005,
+        "amount": 290
+      },
+      {
+        "year": 2006,
+        "amount": 327
+      },
+      {
+        "year": 2007,
+        "amount": 383
+      },
+      {
+        "year": 2008,
+        "amount": 486
+      },
+      {
+        "year": 2009,
+        "amount": 343
+      },
+      {
+        "year": 2010,
+        "amount": 216
+      },
+      {
+        "year": 2011,
+        "amount": 272
+      },
+      {
+        "year": 2012,
+        "amount": 22
+      },
+      {
+        "year": 2013,
+        "amount": 62
+      },
+      {
+        "year": 2014,
+        "amount": 380
+      },
+      {
+        "year": 2015,
+        "amount": 194
+      },
+      {
+        "year": 2016,
+        "amount": 445
+      },
+      {
+        "year": 2017,
+        "amount": 537
+      },
+      {
+        "year": 2018,
+        "amount": 69
+      },
+      {
+        "year": 2019,
+        "amount": 367
+      }
+    ],
+    "length": "5.8",
+    "width": "4.1",
+    "height": "2.3",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "12/09/2010",
+    "createdAt": "21/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 92,
+    "number": 92,
+    "owner": {
+      "name": "Meghan Richmond",
+      "phone": "855 404 30 66"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 172
+      },
+      {
+        "year": 2001,
+        "amount": 172
+      },
+      {
+        "year": 2002,
+        "amount": 417
+      },
+      {
+        "year": 2003,
+        "amount": 349
+      },
+      {
+        "year": 2004,
+        "amount": 464
+      },
+      {
+        "year": 2005,
+        "amount": 7
+      },
+      {
+        "year": 2006,
+        "amount": 585
+      },
+      {
+        "year": 2007,
+        "amount": 467
+      },
+      {
+        "year": 2008,
+        "amount": 540
+      },
+      {
+        "year": 2009,
+        "amount": 136
+      },
+      {
+        "year": 2010,
+        "amount": 172
+      },
+      {
+        "year": 2011,
+        "amount": 570
+      },
+      {
+        "year": 2012,
+        "amount": 522
+      },
+      {
+        "year": 2013,
+        "amount": 164
+      },
+      {
+        "year": 2014,
+        "amount": 146
+      },
+      {
+        "year": 2015,
+        "amount": 528
+      },
+      {
+        "year": 2016,
+        "amount": 579
+      },
+      {
+        "year": 2017,
+        "amount": 157
+      },
+      {
+        "year": 2018,
+        "amount": 518
+      },
+      {
+        "year": 2019,
+        "amount": 297
+      }
+    ],
+    "length": "5.4",
+    "width": "4.4",
+    "height": 3,
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": true,
+    "buildDate": "23/01/2010",
+    "createdAt": "18/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 93,
+    "number": 93,
+    "owner": {
+      "name": "Ronda Barron",
+      "phone": "962 580 21 77"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 438
+      },
+      {
+        "year": 2001,
+        "amount": 183
+      },
+      {
+        "year": 2002,
+        "amount": 329
+      },
+      {
+        "year": 2003,
+        "amount": 351
+      },
+      {
+        "year": 2004,
+        "amount": 299
+      },
+      {
+        "year": 2005,
+        "amount": 96
+      },
+      {
+        "year": 2006,
+        "amount": 402
+      },
+      {
+        "year": 2007,
+        "amount": 560
+      },
+      {
+        "year": 2008,
+        "amount": 313
+      },
+      {
+        "year": 2009,
+        "amount": 382
+      },
+      {
+        "year": 2010,
+        "amount": 351
+      },
+      {
+        "year": 2011,
+        "amount": 595
+      },
+      {
+        "year": 2012,
+        "amount": 70
+      },
+      {
+        "year": 2013,
+        "amount": 105
+      },
+      {
+        "year": 2014,
+        "amount": 375
+      },
+      {
+        "year": 2015,
+        "amount": 119
+      },
+      {
+        "year": 2016,
+        "amount": 289
+      },
+      {
+        "year": 2017,
+        "amount": 510
+      },
+      {
+        "year": 2018,
+        "amount": 456
+      },
+      {
+        "year": 2019,
+        "amount": 54
+      }
+    ],
+    "length": "5.7",
+    "width": "4.5",
+    "height": "2.4",
+    "manhole": false,
+    "electricity": false,
+    "water": true,
+    "forSale": false,
+    "buildDate": "08/02/2015",
+    "createdAt": "05/04/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 94,
+    "number": 94,
+    "owner": {
+      "name": "Aurora Mckinney",
+      "phone": "856 515 36 30"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 557
+      },
+      {
+        "year": 2001,
+        "amount": 35
+      },
+      {
+        "year": 2002,
+        "amount": 115
+      },
+      {
+        "year": 2003,
+        "amount": 373
+      },
+      {
+        "year": 2004,
+        "amount": 49
+      },
+      {
+        "year": 2005,
+        "amount": 477
+      },
+      {
+        "year": 2006,
+        "amount": 90
+      },
+      {
+        "year": 2007,
+        "amount": 138
+      },
+      {
+        "year": 2008,
+        "amount": 504
+      },
+      {
+        "year": 2009,
+        "amount": 516
+      },
+      {
+        "year": 2010,
+        "amount": 13
+      },
+      {
+        "year": 2011,
+        "amount": 416
+      },
+      {
+        "year": 2012,
+        "amount": 375
+      },
+      {
+        "year": 2013,
+        "amount": 567
+      },
+      {
+        "year": 2014,
+        "amount": 237
+      },
+      {
+        "year": 2015,
+        "amount": 356
+      },
+      {
+        "year": 2016,
+        "amount": 466
+      },
+      {
+        "year": 2017,
+        "amount": 265
+      },
+      {
+        "year": 2018,
+        "amount": 80
+      },
+      {
+        "year": 2019,
+        "amount": 60
+      }
+    ],
+    "length": "5.2",
+    "width": "4.5",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "17/08/2016",
+    "createdAt": "21/11/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 95,
+    "number": 95,
+    "owner": {
+      "name": "Mcguire Herring",
+      "phone": "981 414 22 23"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 584
+      },
+      {
+        "year": 2001,
+        "amount": 319
+      },
+      {
+        "year": 2002,
+        "amount": 75
+      },
+      {
+        "year": 2003,
+        "amount": 234
+      },
+      {
+        "year": 2004,
+        "amount": 379
+      },
+      {
+        "year": 2005,
+        "amount": 284
+      },
+      {
+        "year": 2006,
+        "amount": 277
+      },
+      {
+        "year": 2007,
+        "amount": 385
+      },
+      {
+        "year": 2008,
+        "amount": 492
+      },
+      {
+        "year": 2009,
+        "amount": 388
+      },
+      {
+        "year": 2010,
+        "amount": 129
+      },
+      {
+        "year": 2011,
+        "amount": 5
+      },
+      {
+        "year": 2012,
+        "amount": 449
+      },
+      {
+        "year": 2013,
+        "amount": 91
+      },
+      {
+        "year": 2014,
+        "amount": 285
+      },
+      {
+        "year": 2015,
+        "amount": 98
+      },
+      {
+        "year": 2016,
+        "amount": 312
+      },
+      {
+        "year": 2017,
+        "amount": 67
+      },
+      {
+        "year": 2018,
+        "amount": 210
+      },
+      {
+        "year": 2019,
+        "amount": 473
+      }
+    ],
+    "length": "5.7",
+    "width": "4.3",
+    "height": "2.8",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "07/01/2018",
+    "createdAt": "11/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 96,
+    "number": 96,
+    "owner": {
+      "name": "Teresa Valentine",
+      "phone": "853 420 34 41"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 208
+      },
+      {
+        "year": 2001,
+        "amount": 568
+      },
+      {
+        "year": 2002,
+        "amount": 500
+      },
+      {
+        "year": 2003,
+        "amount": 559
+      },
+      {
+        "year": 2004,
+        "amount": 469
+      },
+      {
+        "year": 2005,
+        "amount": 559
+      },
+      {
+        "year": 2006,
+        "amount": 551
+      },
+      {
+        "year": 2007,
+        "amount": 308
+      },
+      {
+        "year": 2008,
+        "amount": 413
+      },
+      {
+        "year": 2009,
+        "amount": 282
+      },
+      {
+        "year": 2010,
+        "amount": 481
+      },
+      {
+        "year": 2011,
+        "amount": 84
+      },
+      {
+        "year": 2012,
+        "amount": 187
+      },
+      {
+        "year": 2013,
+        "amount": 580
+      },
+      {
+        "year": 2014,
+        "amount": 101
+      },
+      {
+        "year": 2015,
+        "amount": 477
+      },
+      {
+        "year": 2016,
+        "amount": 580
+      },
+      {
+        "year": 2017,
+        "amount": 271
+      },
+      {
+        "year": 2018,
+        "amount": 181
+      },
+      {
+        "year": 2019,
+        "amount": 68
+      }
+    ],
+    "length": "5.9",
+    "width": 5,
+    "height": "2.4",
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": false,
+    "buildDate": "19/08/2014",
+    "createdAt": "28/07/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 97,
+    "number": 97,
+    "owner": {
+      "name": "Atkins Acosta",
+      "phone": "903 593 38 93"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 352
+      },
+      {
+        "year": 2001,
+        "amount": 209
+      },
+      {
+        "year": 2002,
+        "amount": 582
+      },
+      {
+        "year": 2003,
+        "amount": 3
+      },
+      {
+        "year": 2004,
+        "amount": 528
+      },
+      {
+        "year": 2005,
+        "amount": 599
+      },
+      {
+        "year": 2006,
+        "amount": 310
+      },
+      {
+        "year": 2007,
+        "amount": 256
+      },
+      {
+        "year": 2008,
+        "amount": 135
+      },
+      {
+        "year": 2009,
+        "amount": 330
+      },
+      {
+        "year": 2010,
+        "amount": 71
+      },
+      {
+        "year": 2011,
+        "amount": 4
+      },
+      {
+        "year": 2012,
+        "amount": 329
+      },
+      {
+        "year": 2013,
+        "amount": 353
+      },
+      {
+        "year": 2014,
+        "amount": 311
+      },
+      {
+        "year": 2015,
+        "amount": 550
+      },
+      {
+        "year": 2016,
+        "amount": 473
+      },
+      {
+        "year": 2017,
+        "amount": 20
+      },
+      {
+        "year": 2018,
+        "amount": 280
+      },
+      {
+        "year": 2019,
+        "amount": 465
+      }
+    ],
+    "length": 5,
+    "width": "4.1",
+    "height": "2.2",
+    "manhole": true,
+    "electricity": false,
+    "water": false,
+    "forSale": true,
+    "buildDate": "08/02/2018",
+    "createdAt": "05/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 98,
+    "number": 98,
+    "owner": {
+      "name": "Finley Mckenzie",
+      "phone": "984 485 34 69"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 505
+      },
+      {
+        "year": 2001,
+        "amount": 392
+      },
+      {
+        "year": 2002,
+        "amount": 246
+      },
+      {
+        "year": 2003,
+        "amount": 395
+      },
+      {
+        "year": 2004,
+        "amount": 86
+      },
+      {
+        "year": 2005,
+        "amount": 107
+      },
+      {
+        "year": 2006,
+        "amount": 97
+      },
+      {
+        "year": 2007,
+        "amount": 321
+      },
+      {
+        "year": 2008,
+        "amount": 51
+      },
+      {
+        "year": 2009,
+        "amount": 268
+      },
+      {
+        "year": 2010,
+        "amount": 297
+      },
+      {
+        "year": 2011,
+        "amount": 2
+      },
+      {
+        "year": 2012,
+        "amount": 315
+      },
+      {
+        "year": 2013,
+        "amount": 249
+      },
+      {
+        "year": 2014,
+        "amount": 429
+      },
+      {
+        "year": 2015,
+        "amount": 585
+      },
+      {
+        "year": 2016,
+        "amount": 416
+      },
+      {
+        "year": 2017,
+        "amount": 315
+      },
+      {
+        "year": 2018,
+        "amount": 243
+      },
+      {
+        "year": 2019,
+        "amount": 519
+      }
+    ],
+    "length": "5.3",
+    "width": "4.4",
+    "height": "2.5",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": false,
+    "buildDate": "30/01/2016",
+    "createdAt": "29/10/2019",
+    "updatedAt": ""
+  },
+  {
+    "_id": 99,
+    "number": 99,
+    "owner": {
+      "name": "Wynn Ware",
+      "phone": "865 503 28 37"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 429
+      },
+      {
+        "year": 2001,
+        "amount": 530
+      },
+      {
+        "year": 2002,
+        "amount": 57
+      },
+      {
+        "year": 2003,
+        "amount": 418
+      },
+      {
+        "year": 2004,
+        "amount": 532
+      },
+      {
+        "year": 2005,
+        "amount": 199
+      },
+      {
+        "year": 2006,
+        "amount": 116
+      },
+      {
+        "year": 2007,
+        "amount": 329
+      },
+      {
+        "year": 2008,
+        "amount": 474
+      },
+      {
+        "year": 2009,
+        "amount": 433
+      },
+      {
+        "year": 2010,
+        "amount": 377
+      },
+      {
+        "year": 2011,
+        "amount": 368
+      },
+      {
+        "year": 2012,
+        "amount": 401
+      },
+      {
+        "year": 2013,
+        "amount": 168
+      },
+      {
+        "year": 2014,
+        "amount": 457
+      },
+      {
+        "year": 2015,
+        "amount": 490
+      },
+      {
+        "year": 2016,
+        "amount": 143
+      },
+      {
+        "year": 2017,
+        "amount": 90
+      },
+      {
+        "year": 2018,
+        "amount": 475
+      },
+      {
+        "year": 2019,
+        "amount": 267
+      }
+    ],
+    "length": "5.2",
+    "width": "4.6",
+    "height": "2.6",
+    "manhole": true,
+    "electricity": true,
+    "water": true,
+    "forSale": true,
+    "buildDate": "23/01/2011",
+    "createdAt": "07/03/2020",
+    "updatedAt": ""
+  },
+  {
+    "_id": 100,
+    "number": 100,
+    "owner": {
+      "name": "Susana Nixon",
+      "phone": "851 460 38 71"
+    },
+    "payments": [
+      {
+        "year": 2000,
+        "amount": 512
+      },
+      {
+        "year": 2001,
+        "amount": 595
+      },
+      {
+        "year": 2002,
+        "amount": 599
+      },
+      {
+        "year": 2003,
+        "amount": 477
+      },
+      {
+        "year": 2004,
+        "amount": 37
+      },
+      {
+        "year": 2005,
+        "amount": 274
+      },
+      {
+        "year": 2006,
+        "amount": 411
+      },
+      {
+        "year": 2007,
+        "amount": 412
+      },
+      {
+        "year": 2008,
+        "amount": 309
+      },
+      {
+        "year": 2009,
+        "amount": 23
+      },
+      {
+        "year": 2010,
+        "amount": 439
+      },
+      {
+        "year": 2011,
+        "amount": 28
+      },
+      {
+        "year": 2012,
+        "amount": 555
+      },
+      {
+        "year": 2013,
+        "amount": 560
+      },
+      {
+        "year": 2014,
+        "amount": 370
+      },
+      {
+        "year": 2015,
+        "amount": 336
+      },
+      {
+        "year": 2016,
+        "amount": 492
+      },
+      {
+        "year": 2017,
+        "amount": 214
+      },
+      {
+        "year": 2018,
+        "amount": 290
+      },
+      {
+        "year": 2019,
+        "amount": 43
+      }
+    ],
+    "length": "5.7",
+    "width": "4.1",
+    "height": 3,
+    "manhole": true,
+    "electricity": true,
+    "water": false,
+    "forSale": true,
+    "buildDate": "11/01/2020",
+    "createdAt": "20/02/2020",
+    "updatedAt": ""
+  }
+]

@@ -1,0 +1,42 @@
+.garages {
+  display: flex;
+  flex-flow: row wrap;
+}
+.garages__main {
+  /* width: calc(80% - 200px); */
+  width: 100%;
+}
+.garages__aside {
+  /* width: 200px; */
+}
+.garages__list {
+  display: flex;
+  flex-flow: row wrap;
+  /* padding: 30px; */
+}
+.garages__table {
+  width: 100%;
+  font-size: 16px;
+  line-height: 1;
+  border-collapse: collapse;
+  text-align: left;
+}
+.garages__table thead {
+  border-bottom: 1px solid #000;
+}
+.garages__table th,
+.garages__table td {
+  padding: 8px 15px;
+  cursor: pointer;
+}
+.garages__table th:hover {
+  background-color: #eaeaea;
+}
+.garages__table tbody tr:hover {
+  background-color: #faebd7;
+}
+
+.garages__item {}
+.garages__controls {
+  margin-top: 30px;
+}

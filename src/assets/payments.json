@@ -1,0 +1,142 @@
+[
+  {
+    "_id": 1,
+    "year": 2000,
+    "amount": 371,
+    "created_at": "11/07/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 2,
+    "year": 2001,
+    "amount": 306,
+    "created_at": "03/10/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 3,
+    "year": 2002,
+    "amount": 440,
+    "created_at": "16/03/2020",
+    "updated_at": ""
+  },
+  {
+    "_id": 4,
+    "year": 2003,
+    "amount": 395,
+    "created_at": "24/06/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 5,
+    "year": 2004,
+    "amount": 370,
+    "created_at": "25/05/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 6,
+    "year": 2005,
+    "amount": 371,
+    "created_at": "09/05/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 7,
+    "year": 2006,
+    "amount": 342,
+    "created_at": "25/02/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 8,
+    "year": 2007,
+    "amount": 226,
+    "created_at": "18/02/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 9,
+    "year": 2008,
+    "amount": 228,
+    "created_at": "16/05/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 10,
+    "year": 2009,
+    "amount": 411,
+    "created_at": "12/10/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 11,
+    "year": 2010,
+    "amount": 259,
+    "created_at": "20/08/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 12,
+    "year": 2011,
+    "amount": 290,
+    "created_at": "05/03/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 13,
+    "year": 2012,
+    "amount": 301,
+    "created_at": "05/10/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 14,
+    "year": 2013,
+    "amount": 409,
+    "created_at": "23/12/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 15,
+    "year": 2014,
+    "amount": 310,
+    "created_at": "22/02/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 16,
+    "year": 2015,
+    "amount": 488,
+    "created_at": "04/12/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 17,
+    "year": 2016,
+    "amount": 410,
+    "created_at": "06/05/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 18,
+    "year": 2017,
+    "amount": 411,
+    "created_at": "28/02/2020",
+    "updated_at": ""
+  },
+  {
+    "_id": 19,
+    "year": 2018,
+    "amount": 472,
+    "created_at": "26/12/2019",
+    "updated_at": ""
+  },
+  {
+    "_id": 20,
+    "year": 2019,
+    "amount": 229,
+    "created_at": "12/12/2019",
+    "updated_at": ""
+  }
+]

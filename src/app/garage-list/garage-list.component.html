@@ -1,0 +1,53 @@
+<div class="garages">
+  <div class="garages__main">
+    <!-- <ng-template [ngIf]="garagesAndPayments$ | async" let-data [ngIfElse]="loading">
+      <div *ngIf="data.garages.length > 0; else empty" class="garages__list">
+        <app-garage *ngFor="let garage of data.garages; index as index; trackBy: trackGaragesByFn" class="garages__item" [index]="index" [garage]="garage" [payments]="data.payments" (garageClickEvent)="onGarageClick($event)"></app-garage>
+      </div>
+      <ng-template #empty>No garages found.</ng-template>
+    </ng-template>
+    <ng-template #loading>Loading garages...</ng-template>
+    <div class="garages__controls">
+      <button (click)="refreshGarages()">Refresh</button>
+    </div> -->
+    <div class="garages__list">
+      <table class="garages__table">
+        <thead>
+          <tr>
+            <th (click)="sortBy('garageNumber')">№</th>
+            <th (click)="sortBy('ownerName')">Собственник</th>
+            <th (click)="sortBy('length')">Д (м)</th>
+            <th (click)="sortBy('width')">Ш (м)</th>
+            <th (click)="sortBy('height')">В (м)</th>
+            <th>Яма</th>
+            <th>Электр.</th>
+            <th>Вода</th>
+            <th>Платежи</th>
+            <th>Продаётся?</th>
+          </tr>
+        </thead>
+        <tbody>
+          <ng-template [ngIf]="garagesAndPayments" [ngIfElse]="loading">
+            <tr *ngFor="let garage of garagesAndPayments.garages">
+              <td>{{ garage.number }}</td>
+              <td>{{ garage.owner.name }}</td>
+              <td>{{ garage.length }}</td>
+              <td>{{ garage.width }}</td>
+              <td>{{ garage.height }}</td>
+              <td>{{ garage.manhole }}</td>
+              <td>{{ garage.electricity }}</td>
+              <td>{{ garage.water }}</td>
+              <td>{{ garage.payments.length }}</td>
+              <td>{{ garage.forSale }}</td>
+            </tr>
+          </ng-template>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <div class="garages__aside">
+    <div *ngIf="selectedGarage">
+      <app-garage-details [garage]="selectedGarage" [payments]="payments"></app-garage-details>
+    </div>
+  </div>
+</div>

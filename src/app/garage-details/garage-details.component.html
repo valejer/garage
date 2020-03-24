@@ -1,0 +1,17 @@
+<div class="garage-details">
+  <div class="garage-details__id">{{ garage._id }}</div>
+  <div class="garage-details__number">{{ garage.number }}</div>
+  <div class="garage-details__width">{{ garage.width }}</div>
+  <div class="garage-details__length">{{ garage.length }}</div>
+  <div class="garage-details__height">{{ garage.height }}</div>
+  <div class="garage-details__owner garage-owner">
+    <div class="garage-owner__name">{{ garage.owner.name }}</div>
+    <div class="garage-owner__phone">{{ garage.owner.phone }}</div>
+  </div>
+  <div class="garage-details__payments garage-payments">
+    <div *ngFor="let garagePayment of garage.payments" class="garage-payments__item">
+      <div class="garage-payments__year">{{ garagePayment.year }}</div>
+      <div class="garage-payments__amount">{{ garagePayment.amount }}</div>
+    </div>
+  </div>
+</div>

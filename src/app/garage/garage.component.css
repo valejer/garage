@@ -1,0 +1,24 @@
+.garage {
+  width: 72px;
+  height: 36px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 36px;
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+}
+.garage--payment-full { 
+  background-color: #E7F8D2;
+  color: #1E4208;
+}
+.garage--payment-part {
+  background-color: #FAE8BB;
+  color: #413108;
+}
+.garage--payment-no {
+  background-color: #FCDADA;
+  color: #420A0A;
+}

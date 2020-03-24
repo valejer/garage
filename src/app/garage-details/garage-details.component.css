@@ -1,0 +1,12 @@
+.garage-details {}
+.garage-details__payments {}
+.garage-payments {}
+.garage-payments__item {
+  display: flex;
+  flex-flow: row wrap;
+}
+.garage-payments__year,
+.garage-payments__required {
+  margin-right: 15px;
+}
+.garage-payments__amount {}
